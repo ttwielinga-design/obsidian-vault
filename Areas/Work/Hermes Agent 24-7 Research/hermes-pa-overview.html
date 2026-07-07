@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hermes Agent 24/7 Personal Assistant Guide</title>
+    <style>
+        :root {
+            --bg: #0a0a0a;
+            --bg-card: #1a1a1a;
+            --text: #e5e5e5;
+            --accent: #6366f1;
+            --accent-2: #818cf8;
+            --success: #10b981;
+            --warning: #f59e0b;
+            --danger: #ef4444;
+            --border: #2a2a2a;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; padding: 2rem; }
+        .container { max-width: 1400px; margin: 0 auto; }
+        h1 { font-size: 2.5rem; margin-bottom: 0.5rem; color: var(--accent); }
+        h2 { font-size: 1.75rem; margin: 2rem 0 1rem; color: var(--accent-2); border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; }
+        h3 { font-size: 1.25rem; margin: 1.5rem 0 0.75rem; color: var(--accent); }
+        .subtitle { color: #888; margin-bottom: 2rem; }
+        .card { background: var(--bg-card); border: 1px solid var(--border); border-radius: 8px; padding: 1.5rem; margin-bottom: 1.5rem; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem; }
+        .status-active { color: var(--success); font-weight: bold; }
+        .status-warn { color: var(--warning); font-weight: bold; }
+        .status-error { color: var(--danger); font-weight: bold; }
+        table { width: 100%; border-collapse: collapse; margin: 1rem 0; }
+        th, td { padding: 0.75rem; text-align: left; border: 1px solid var(--border); }
+        th { background: #222; color: var(--accent); }
+        tr:nth-child(even) { background: #141414; }
+        code { background: #222; padding: 0.2rem 0.4rem; border-radius: 4px; font-size: 0.9em; }
+        .tag { display: inline-block; background: var(--accent); color: #fff; padding: 0.2rem 0.6rem; border-radius: 9999px; font-size: 0.8em; margin: 0.2rem; }
+        .tag-platform { background: #8b5cf6; }
+        .tag-mcp { background: #ec4899; }
+        .tag-cron { background: #06b6d4; }
+        .tag-skill { background: #10b981; }
+        ul { margin-left: 1.5rem; }
+        li { margin: 0.5rem 0; }
+        .highlight { background: linear-gradient(180deg, rgba(99,102,241,0.1) 0%, transparent 100%); padding: 0.2rem 0.4rem; border-radius: 4px; }
+        .nav { position: sticky; top: 0; background: rgba(10,10,10,0.9); backdrop-filter: blur(10px); padding: 1rem 0; margin-bottom: 2rem; border-bottom: 1px solid var(--border); }
+        .nav a { color: var(--accent); margin-right: 1.5rem; text-decoration: none; }
+        .nav a:hover { text-decoration: underline; }
+        .section { margin: 3rem 0; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <nav class="nav">
+            <a href="#platforms">Platforms</a>
+            <a href="#vault">Obsidian Vault</a>
+            <a href="#skills">Skills</a>
+            <a href="#integrations">Integrations</a>
+            <a href="#reliability">24/7 Reliability</a>
+            <a href="#followups">What's Needed</a>
+            <a href="#roadmap">Roadmap</a>
+        </nav>
+
+        <h1>Hermes Agent 24/7 Personal Assistant Guide</h1>
+        <p class="subtitle">Comprehensive overview for Discord/WhatsApp PA setup with Obsidian second brain integration</p>
+
+        <div class="section" id="executive-summary">
+            <div class="card">
+                <h2>Executive Summary</h2>
+                <p>Hermes Agent is already configured with substantial PA infrastructure. Key facts:</p>
+                <ul>
+                    <li><strong>92 skills installed</strong> covering email, tasks, health, creative, productivity, and more</li>
+                    <li><strong>4 MCP servers active</strong> (ClickUp, Garmin, Yahoo Mail, Spotty)</li>
+                    <li><strong>19 cron jobs running</strong> with automated email triage and morning brief</li>
+                    <li><strong>Discord already connected</strong> with 8 operational channels, per-channel prompts + skill bindings</li>
+                    <li><strong>WhatsApp available but not configured</strong> — two adapter options (Baileys bridge or Cloud API)</li>
+                    <li><strong>Obsidian vault at ~813 notes</strong> with structured PAR methodology + semantic search</li>
+                </ul>
+
+                <h3 style="color: var(--danger);">Critical Issues Found</h3>
+                <table>
+                    <tr><th>Issue</th><th>Impact</th><th>Since</th></tr>
+                    <tr><td>Discord delivery failing (getaddrinfo)</td><td>All cron notifications to Discord channels broken</td><td>Mid-May</td></tr>
+                    <tr><td>Email triage AttributeError</td><td>Yahoo folder parsing bug, no nightly triage</td><td>May 15</td></tr>
+                    <tr><td>QMD semantic search broken</td><td>PyTorch segfault, vault vector index offline</td><td>Mid-May</td></tr>
+                    <tr><td>Weekly gateway restart stuck</td><td>.env deprecation + lock held, no auto-restart</td><td>May 14</td></tr>
+                    <tr><td>Hermes Daily Maintenance failing</td><td>Connection error, no daily cleanup</td><td>May 15</td></tr>
+                </table>
+            </div>
+        </div>
+
+        <div class="section" id="platforms">
+            <h2>Connected Platforms</h2>
+            
+            <h3>Discord (Active)</h3>
+            <div class="card">
+                <p><span class="status-active">● Connected</span></p>
+                <p>Server: "Thomas Hermes PA" | Bot Token: Configured</p>
+                <table>
+                    <tr><th>Channel</th><th>ID</th><th>Purpose</th><th>Skill</th></tr>
+                    <tr><td>code</td><td>1503003882341667007</td><td>Code work, GitHub integration</td><td>github-pr-workflow, github-code-review</td></tr>
+                    <tr><td>creative</td><td>1503003940340502658</td><td>Creative work, design</td><td>claude-design, excalidraw</td></tr>
+                    <tr><td>research</td><td>1503003992047878339</td><td>Research, arxiv, blogwatcher</td><td>arxiv, blogwatcher, llm-wiki</td></tr>
+                    <tr><td>ops</td><td>1503004007101104168</td><td>Operations, kanban, health</td><td>kanban-triage-router, garmin-mcp</td></tr>
+                    <tr><td>email-digest</td><td>1503004035014463578</td><td>Email digests, triage output</td><td>email-organization</td></tr>
+                    <tr><td>system</td><td>1503004073937600624</td><td>System alerts, health monitor</td><td></td></tr>
+                    <tr><td>running</td><td>1503004091369132052</td><td>Running coach, Garmin data</td><td>garmin-mcp</td></tr>
+                    <tr><td>brain-dump</td><td>1503330786932297848</td><td>Voice memos → ClickUp tasks</td><td>brain-dump-dispatch</td></tr>
+                </table>
+                <p><strong>Features:</strong> Threads, reactions, @mention control, per-channel skill bindings, separate personas per channel</p>
+                
+                <h4>Feature Matrix (from source code analysis)</h4>
+                <table>
+                    <tr><th>Feature</th><th>Discord</th><th>WhatsApp (Baileys)</th><th>WhatsApp (Cloud API)</th></tr>
+                    <tr><td>Text</td><td>✅</td><td>✅</td><td>✅</td></tr>
+                    <tr><td>Voice channels</td><td>✅ join/leave/listen/speak</td><td>❌</td><td>❌</td></tr>
+                    <tr><td>Voice notes</td><td>✅</td><td>✅</td><td>✅ (ogg/opus via ffmpeg)</td></tr>
+                    <tr><td>Images</td><td>✅</td><td>✅</td><td>✅</td></tr>
+                    <tr><td>Files</td><td>✅ (32MB cap)</td><td>✅</td><td>✅ (100MB docs)</td></tr>
+                    <tr><td>Threads</td><td>✅ auto-thread + forum</td><td>❌</td><td>❌</td></tr>
+                    <tr><td>Reactions</td><td>✅ 👀/✅/❌ indicators</td><td>❌</td><td>❌</td></tr>
+                    <tr><td>Typing indicator</td><td>✅ persistent loop</td><td>❌</td><td>✅</td></tr>
+                    <tr><td>Streaming</td><td>✅ progressive edits</td><td>✅</td><td>✅</td></tr>
+                    <tr><td>Interactive buttons</td><td>✅ (clarify/approve)</td><td>❌ (text fallback)</td><td>✅ native buttons</td></tr>
+                    <tr><td>Group chat</td><td>✅</td><td>✅ full</td><td>❌ DMs only</td></tr>
+                    <tr><td>Read receipts</td><td>✅ built-in</td><td>❌</td><td>✅ blue checkmarks</td></tr>
+                    <tr><td>Per-channel prompts</td><td>✅ 8 configured</td><td>❌</td><td>❌</td></tr>
+                    <tr><td>Public URL required</td><td>No</td><td>No</td><td>Yes</td></tr>
+                    <tr><td>Ban risk</td><td>None (official API)</td><td>Yes (unofficial)</td><td>None (official)</td></tr>
+                    <tr><td>24h conversation window</td><td>None</td><td>None</td><td>Yes (Meta rule)</td></tr>
+                </table>
+                
+                <h4>Discord Setup Requirements</h4>
+                <ul>
+                    <li>Bot token from Discord Developer Portal (<code>DISCORD_BOT_TOKEN</code>)</li>
+                    <li>User/role allowlist (<code>DISCORD_ALLOWED_USERS</code> or <code>DISCORD_ALLOWED_ROLES</code>)</li>
+                    <li><strong>Message Content Intent</strong> and <strong>Server Members Intent</strong> must be enabled in Developer Portal (critical — #1 cause of silent failures)</li>
+                    <li><code>discord.py</code> library</li>
+                    <li><code>libopus</code> for voice channel support (bundled on Windows)</li>
+                </ul>
+                
+                <h4>Discord Security</h4>
+                <ul>
+                    <li>Multiple auth layers: user + role allowlist (OR logic)</li>
+                    <li>Slash command access control via <code>allow_admin_from</code> + <code>user_allowed_commands</code></li>
+                    <li>Blocks @everyone/@here by default</li>
+                    <li>Bot-to-bot prevention: <code>DISCORD_ALLOW_BOTS=none</code> default</li>
+                    <li>Attachment size cap: 32 MiB default</li>
+                </ul>
+                
+                <h4>Voice Channel Support (Extensive)</h4>
+                <ul>
+                    <li>Join/leave via <code>/voice join</code> / <code>/voice leave</code></li>
+                    <li>Voice receiver captures speech for STT (Phase 2)</li>
+                    <li>Voice mixer: ambient idle bed + ducked speech + verbal acks (Phase 3, Grok-like)</li>
+                    <li>Auto-disconnect on 300s inactivity</li>
+                </ul>
+            </div>
+
+            <h3>WhatsApp (Available, Two Adapter Options)</h3>
+            <div class="card">
+                <p><span class="status-warn">● Available but not configured</span> — <code>whatsapp: {}</code> in config (empty block)</p>
+                
+                <h4>Option A: Baileys Bridge (whatsapp adapter)</h4>
+                <ul>
+                    <li><strong>Backend:</strong> Node.js subprocess running Baileys (unofficial WhatsApp Web protocol)</li>
+                    <li><strong>Setup:</strong> QR code scan via <code>hermes whatsapp</code> wizard</li>
+                    <li><strong>No public URL needed</strong> — polls via local HTTP bridge</li>
+                    <li><strong>Supports:</strong> Text, images, files, voice notes, streaming, group chats</li>
+                    <li><strong>Limitations:</strong> Ban risk (unofficial API), no typing indicator, no read receipts, no interactive buttons, no reactions, no threads</li>
+                    <li><strong>Session:</strong> <code>~/.hermes/platforms/whatsapp/session</code> (encryption keys)</li>
+                </ul>
+                
+                <h4>Option B: Business Cloud API (whatsapp_cloud adapter)</h4>
+                <ul>
+                    <li><strong>Backend:</strong> Official Meta WhatsApp Business Cloud API (Graph API v20.0)</li>
+                    <li><strong>Setup:</strong> Meta app + WABA + System User token, public HTTPS URL (cloudflared/ngrok)</li>
+                    <li><strong>Supports:</strong> Text, images, voice notes (ogg/opus via ffmpeg), documents, video, native interactive buttons, read receipts, typing indicator, streaming, HMAC verification</li>
+                    <li><strong>Limitations:</strong> DMs only (no groups), 24-hour conversation window, max 5 numbers in dev mode, rate limit 80 msg/sec, requires ffmpeg on PATH for voice bubbles</li>
+                    <li><strong>Setup complexity:</strong> High — 8 steps including Meta Business account, webhook config, tunnel</li>
+                </ul>
+                
+                <h4>Recommendation</h4>
+                <p><strong>Baileys bridge</strong> for quick start (personal use, QR scan, group support). Switch to <strong>Cloud API</strong> if ban risk is unacceptable or if you need interactive buttons for approval flows.</p>
+            </div>
+
+            <h3>Telegram (Connected as Default)</h3>
+            <div class="card">
+                <p><span class="status-active">● Connected</span> | Home Channel ID: 8685002566</p>
+                <p>Rich Markdown support, voice notes, images, files. Used for direct communication and cron job delivery fallback.</p>
+            </div>
+        </div>
+
+        <div class="section" id="vault">
+            <h2>Obsidian Vault Second Brain</h2>
+            
+            <h3>Current Structure</h3>
+            <div class="card">
+                <p>Location: <code>C:\Users\thoma\OneDrive\Obsidian\ThomasVault</code></p>
+                <p>Notes: ~813 markdown files + 321 daily journal entries</p>
+                <p>Structure: PAR (Projects / Areas / Resources) + Daily + Archive</p>
+                
+                <h4>Projects (Active)</h4>
+                <ul>
+                    <li><strong>DayVibe</strong> — Voice-first AI journaling app (primary bet). Website: Aug 17, MVP: Sep 17, 200-user Alpha target</li>
+                    <li><strong>Florence Aug 2026</strong> — Trip planning (Aug 17-20)</li>
+                    <li><strong>MindBoost, Park56, CompanySearcher</strong> — Early-stage ideas</li>
+                    <li><strong>Utrecht Marathon 2026</strong> — 16-week training protocol</li>
+                </ul>
+
+                <h4>Areas (Ongoing Responsibilities)</h4>
+                <table>
+                    <tr><th>Area</th><th>Contents</th><th>Hermes Integration</th></tr>
+                    <tr><td>Finance</td><td>Budgeting, net worth, mortgage, legal docs, investments</td><td>Gmail label mirroring, email triage routing</td></tr>
+                    <tr><td>Work</td><td>AI consulting, client projects, invoicing, tenant management</td><td>ClickUp integration, brain-dump → tasks</td></tr>
+                    <tr><td>People</td><td>33 relationships (collaborators, family, friends, tenants)</td><td>Notion sync potential</td></tr>
+                    <tr><td>Health</td><td>Daily wellness logs, Garmin biomarkers</td><td>Garmin MCP, daily health check template</td></tr>
+                </table>
+
+                <h4>Brain Dump System</h4>
+                <p>Voice memos from Discord #brain-dump auto-converted to ClickUp tasks:</p>
+                <ul>
+                    <li>Space routing: Hospitality (work) vs Personal (everything else)</li>
+                    <li>List mapping: 20+ specific lists for different life areas</li>
+                    <li>Confidence scoring: 0.75+ → NEXT, below → BACKLOG</li>
+                    <li>Obsidian logging: Daily index + per-dispatch details</li>
+                </ul>
+            </div>
+
+            <h3>Semantic Search Layer</h3>
+            <div class="card">
+                <p>QMD semantic search database: <code>~/.qmd/db.sqlite</code></p>
+                <p>Model: Qwen3-Embedding-0.6B on CPU</p>
+                <p>Collection: obsidian-vault</p>
+                <p>Nightly rebuild at 03:00 via cron job</p>
+                <p><strong>Potential:</strong> Long-term memory architecture (mcpvault + LightRAG) planned but not yet implemented</p>
+            </div>
+        </div>
+
+        <div class="section" id="skills">
+            <h2>Skills Matrix (92 Total)</h2>
+            
+            <div class="grid">
+                <div class="card">
+                    <h3>Email <span class="tag tag-skill">7 skills</span></h3>
+                    <ul>
+                        <li><strong>himalaya</strong> — IMAP/SMTP CLI tool</li>
+                        <li><strong>email-organization</strong> — 5-phase inbox system design</li>
+                        <li><strong>email-reply</strong> — Register-aware drafting</li>
+                        <li><strong>google-workspace</strong> — Gmail, Calendar, Drive API</li>
+                        <li><strong>morning-brief-v2</strong> — 07:00 daily brief</li>
+                    </ul>
+                </div>
+                
+                <div class="card">
+                    <h3>Task Management <span class="tag tag-skill">5 skills</span></h3>
+                    <ul>
+                        <li><strong>ClickUp MCP</strong> — 29 tools via mcp-remote</li>
+                        <li><strong>kanban-triage-router</strong> — Auto-classify & route</li>
+                        <li><strong>kanban-orchestrator</strong> — Decompose multi-step work</li>
+                        <li><strong>linear</strong> — GitHub Issues alternative</li>
+                        <li><strong>notion</strong> — Pages, databases, Workers API</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h3>Productivity <span class="tag tag-skill">12 skills</span></h3>
+                    <ul>
+                        <li><strong>brain-dump-dispatch</strong> — Voice memos → ClickUp</li>
+                        <li><strong>google-workspace</strong> — Calendar, Drive, Docs</li>
+                        <li><strong>airtable</strong> — Database CRUD API</li>
+                        <li><strong>powerpoint</strong> — Slides, decks, templates</li>
+                        <li><strong>notion</strong> — Second brain sync</li>
+                        <li><strong>maps</strong> — Geocoding, routes, timezones</li>
+                        <li><strong>teams-meeting-pipeline</strong> — Meeting summaries</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h3>Health <span class="tag tag-skill">2 skills</span></h3>
+                    <ul>
+                        <li><strong>garmin-mcp</strong> — 29 tools for activities, biomarkers, training</li>
+                        <li><strong>running-coach</strong> — Training plan analysis</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h3>Smart Home <span class="tag tag-skill">1 skill</span></h3>
+                    <ul>
+                        <li><strong>openhue</strong> — Philips Hue lights, scenes, rooms</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h3>Media <span class="tag tag-skill">4 skills</span></h3>
+                    <ul>
+                        <li><strong>spotify</strong> — Play, search, queue, playlists</li>
+                        <li><strong>youtube-content</strong> — Transcripts, summaries</li>
+                        <li><strong>gif-search</strong> — Tenor API</li>
+                        <li><strong>heartmula</strong> — Song generation</li>
+                    </ul>
+                </div>
+
+                <div class="card">
+                    <h3>Creative <span class="tag tag-skill">14 skills</span></h3>
+                    <ul>
+                        <li><strong>excalidraw</strong> — Hand-drawn diagrams</li>
+                        <li><strong>architecture-diagram</strong> — SVG cloud/infra diagrams</li>
+                        <li><strong>claude-design</strong> — HTML prototypes</li>
+                        <li><strong>ascii-art</strong> — Figlet, cowsay</li>
+                        <li><strong>manim-video</strong> — Math animations</li>
+                        <li><strong>p5js</strong> — Generative art sketches</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="section" id="integrations">
+            <h2>MCP Servers & Integrations</h2>
+            
+            <table>
+                <tr><th>Server</th><th>Status</th><th>Tools</th><th>Config Location</th></tr>
+                <tr><td>ClickUp</td><td><span class="status-active">● Active</span></td><td>Task management, comments, time tracking</td><td><code>mcp_servers.clickup</code></td></tr>
+                <tr><td>Garmin</td><td><span class="status-active">● Active</span></td><td>29 tools (activities, health, training)</td><td><code>mcp_servers.garmin</code></td></tr>
+                <tr><td>Yahoo Mail</td><td><span class="status-active">● Active</span></td><td>Email read, search, folder mgmt</td><td><code>~/.hermes/mcp-servers/yahoo-mail/wrapper.cjs</code></td></tr>
+                <tr><td>Spotify</td><td><span class="status-active">● Active</span></td><td>Playback control, search, devices</td><td>cli plugin</td></tr>
+                <tr><td>web-whatsapp-mcp</td><td><span class="status-error">○ Not configured</span></td><td>Messages, contacts, media</td><td>Available in skills</td></tr>
+            </table>
+
+            <h3>Email Triage System</h3>
+            <div class="card">
+                <p><strong>Script:</strong> <code>~/.hermes/scripts/email-triage-run.py</code></p>
+                <p><strong>Schedule:</strong> 02:00 daily (weekdays)</p>
+                <p><strong>Flow:</strong> Yahoo IMAP + Gmail API → Classification via 180+ domain rules → [HERMES DRAFT] in Gmail</p>
+                
+                <h4>Routing Categories (Key Examples)</h4>
+                <table>
+                    <tr><th>Domain Pattern</th><th>Category</th><th>Important</th></tr>
+                    <tr><td>rabobank.nl, wellsfargo.com</td><td>Finance/Banking</td><td>Yes</td></tr>
+                    <tr><td>moomoo.com, degiro.nl</td><td>Finance/Investments</td><td>Yes</td></tr>
+                    <tr><td>e-mail.rabobank.nl</td><td>Finance/Banking</td><td>Yes</td></tr>
+                    <tr><td>aedes.nl</td><td>Work/Aedes</td><td>Yes</td></tr>
+                    <tr><td>openrouter.ai</td><td>Finance/Receipts & Invoices</td><td>Yes</td></tr>
+                    <tr><td>strava.com</td><td>Fitness/Health</td><td>No</td></tr>
+                    <tr><td>sophiawmanzoli</td><td>Personal/Friends & Family</td><td>Yes</td></tr>
+                    <tr><td>notice.skywork.ai</td><td>Work/Aedes</td><td>Yes</td></tr>
+                </table>
+            </div>
+        </div>
+
+        <div class="section" id="reliability">
+            <h2>24/7 Reliability Architecture</h2>
+            
+            <h3>Broken Systems (Priority Fix Order)</h3>
+            <div class="card">
+                <table>
+                    <tr><th>#</th><th>System</th><th>Issue</th><th>Impact</th><th>Since</th></tr>
+                    <tr><td>1</td><td>Discord delivery</td><td>getaddrinfo failed</td><td>All cron notifications to Discord broken</td><td>Mid-May</td></tr>
+                    <tr><td>2</td><td>Email triage script</td><td>AttributeError in Yahoo folder parsing</td><td>No nightly email triage</td><td>May 15</td></tr>
+                    <tr><td>3</td><td>QMD semantic search</td><td>PyTorch 2.11 segfault</td><td>Vault vector index offline</td><td>Mid-May</td></tr>
+                    <tr><td>4</td><td>Weekly gateway restart</td><td>.env deprecation + lock held</td><td>No auto-restart</td><td>May 14</td></tr>
+                    <tr><td>5</td><td>Daily maintenance</td><td>Connection error</td><td>No daily cleanup</td><td>May 15</td></tr>
+                    <tr><td>6</td><td>Kanban triage (AM)</td><td>Connection error</td><td>No morning task routing</td><td>May 15</td></tr>
+                    <tr><td>7</td><td>Kanban triage (weekend)</td><td>Timeout + Discord delivery failure</td><td>No weekend task routing</td><td>Jun 27</td></tr>
+                </table>
+            </div>
+
+            <h3>Cron Jobs (19 Active — Full Status)</h3>
+            <div class="card">
+                <table>
+                    <tr><th>Name</th><th>Schedule</th><th>Last Run</th><th>Status</th></tr>
+                    <tr><td>Morning Brief v2</td><td>07:00 daily</td><td>May 17</td><td>✅ Stale but working</td></tr>
+                    <tr><td>Biomarker Daily Ingestion</td><td>09:00 daily</td><td>May 17</td><td>✅ Stale but working</td></tr>
+                    <tr><td>System Health Monitor</td><td>Every 2h</td><td>Jul 6</td><td>✅ Active</td></tr>
+                    <tr><td>Budget Alert Check</td><td>20:00 daily</td><td>May 16</td><td>✅ Stale but working</td></tr>
+                    <tr><td>Kanban Failure Escalator</td><td>Every 10 min</td><td>Jul 6</td><td>✅ Active</td></tr>
+                    <tr><td>Kanban Triage Router (PM)</td><td>19-22h weekdays</td><td>Jul 6</td><td>✅ Active</td></tr>
+                    <tr><td>Kanban Triage Router (AM)</td><td>8-10h weekdays</td><td>May 15</td><td>❌ Connection error</td></tr>
+                    <tr><td>Kanban Triage Router (Weekend)</td><td>8-20h weekends</td><td>Jun 27</td><td>❌ Timeout</td></tr>
+                    <tr><td>Config Backup</td><td>06:00 daily</td><td>May 16</td><td>✅ Stale but working</td></tr>
+                    <tr><td>Hermes Self-Backup</td><td>03:00 daily</td><td>May 16</td><td>✅ Stale but working</td></tr>
+                    <tr><td>Email Triage</td><td>02:00 daily</td><td>May 15</td><td>❌ AttributeError</td></tr>
+                    <tr><td>Gmail Auto-Draft</td><td>06:00 daily</td><td>May 16</td><td>✅ Stale but working</td></tr>
+                    <tr><td>Yahoo Auto-Draft</td><td>06:15 daily</td><td>—</td><td>⚠️ No data</td></tr>
+                    <tr><td>Kanban Daily Health Summary</td><td>07:30 daily</td><td>May 17</td><td>✅ Stale but working</td></tr>
+                    <tr><td>BD-10 Weekly Distillation</td><td>20:00 Sun</td><td>May 14</td><td>✅ Stale but working</td></tr>
+                    <tr><td>ClickUp Routing Audit</td><td>05:00 daily</td><td>May 16</td><td>✅ Stale but working</td></tr>
+                    <tr><td>Hermes Daily Maintenance</td><td>04:00 daily</td><td>May 15</td><td>❌ Connection error</td></tr>
+                    <tr><td>Hermes Weekly Gateway Restart</td><td>04:00 Sun</td><td>May 14</td><td>❌ Lock + .env issue</td></tr>
+                    <tr><td>Obsidian Vault QMD Index</td><td>21:00 Sun</td><td>May 14</td><td>❌ PyTorch segfault</td></tr>
+                </table>
+            </div>
+
+            <h3>Ground Truth: What's Actually Running</h3>
+            <div class="card">
+                <p><span class="status-active">● Running fine (today):</span></p>
+                <ul>
+                    <li>System Health Monitor — last ran 22:13, OK</li>
+                    <li>Kanban Failure Escalator — every 10 min, last ran 22:15, OK</li>
+                    <li>Kanban Triage Router (PM) — last ran 22:14, OK</li>
+                </ul>
+                
+                <p><span class="status-warn">○ Stale (haven't run since mid-May):</span></p>
+                <ul>
+                    <li>Morning Brief v2</li>
+                    <li>Biomarker Daily Ingestion</li>
+                    <li>Kanban Daily Health Summary</li>
+                    <li>Gmail + Yahoo Auto-Draft</li>
+                    <li>Config Backup, Self-Backup, Routing Audit</li>
+                </ul>
+                
+                <p><span class="status-error">▲ Stuck in error state:</span></p>
+                <ul>
+                    <li>Hermes Weekly Gateway Restart — last ran May 14, failed</li>
+                </ul>
+            </div>
+
+            <h3>Reliability Recommendations</h3>
+            <div class="card">
+                <h4>Immediate Fixes Needed</h4>
+                <ol>
+                    <li><strong>Fix weekly restart script</strong> — Add proper error handling, restart even when not running</li>
+                    <li><strong>Restart stalled cron jobs</strong> — They have valid configs but haven't executed since Hermes was down ~7 weeks</li>
+                </ol>
+                
+                <h4>Process Supervisor (Next Phase)</h4>
+                <ul>
+                    <li>Use NSSM (Non-Sucking Service Manager) on Windows for auto-restart</li>
+                    <li>Or Windows Task Scheduler with "restart on failure" flag</li>
+                    <li>Heartbeat via cron to confirm gateway is responsive</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="section" id="followups">
+            <h2>What's Needed From You</h2>
+            
+            <h3>Priority Fix Order (Boring Reliability First)</h3>
+            <div class="card">
+                <ol>
+                    <li><strong>Fix Discord delivery</strong> — getaddrinfo failed, blocks all cron notifications. Likely DNS or network config issue.</li>
+                    <li><strong>Restart gateway</strong> — fixes lock issue, picks up MCP servers cleanly, clears stale state</li>
+                    <li><strong>Fix email triage script</strong> — AttributeError in Yahoo folder parsing (line ~343 of email-triage-run.py)</li>
+                    <li><strong>Run QMD rebuild script</strong> — restores semantic search over Obsidian vault</li>
+                    <li><strong>Set up missing env vars</strong> — Airtable, Notion, Linear (15 min each)</li>
+                    <li><strong>Install openhue + pair Hue Bridge</strong> — smart home control</li>
+                </ol>
+            </div>
+            
+            <h3>API Keys & Credentials</h3>
+            <div class="card">
+                <table>
+                    <tr><th>Service</th><th>Status</th><th>Action Needed</th></tr>
+                    <tr><td>Google OAuth</td><td><span class="status-active">● Configured</span></td><td>Token at <code>AppData/Local/hermes/google_token.json</code>. Auto-refreshes.</td></tr>
+                    <tr><td>Garmin</td><td><span class="status-active">● Configured</span></td><td>Credentials in config.yaml under <code>mcp_servers.garmin.env</code></td></tr>
+                    <tr><td>ClickUp</td><td><span class="status-active">● Configured</span></td><td>OAuth via mcp-remote, no local token</td></tr>
+                    <tr><td>Yahoo Mail</td><td><span class="status-active">● Configured</span></td><td>App password in config, IMAP access</td></tr>
+                    <tr><td>Spotify</td><td><span class="status-active">● Configured</span></td><td>CLI plugin, OAuth flow</td></tr>
+                    <tr><td>WhatsApp</td><td><span class="status-error">○ Missing</span></td><td>QR scan (Baileys) or Meta Business setup (Cloud API)</td></tr>
+                    <tr><td>Airtable</td><td><span class="status-error">○ Missing</span></td><td>Need <code>AIRTABLE_API_KEY</code> env var</td></tr>
+                    <tr><td>Notion</td><td><span class="status-error">○ Missing</span></td><td>Need <code>NOTION_API_KEY</code> env var</td></tr>
+                    <tr><td>Linear</td><td><span class="status-error">○ Missing</span></td><td>Need <code>LINEAR_API_KEY</code> env var</td></tr>
+                    <tr><td>Tenor (GIF search)</td><td><span class="status-error">○ Missing</span></td><td>Need <code>TENOR_API_KEY</code> env var</td></tr>
+                    <tr><td>Philips Hue</td><td><span class="status-error">○ Missing</span></td><td>Install <code>openhue</code> CLI + pair bridge</td></tr>
+                    <tr><td>blogwatcher</td><td><span class="status-error">○ Missing</span></td><td>Install <code>blogwatcher-cli</code> binary</td></tr>
+                    <tr><td>GitHub PAT</td><td><span class="status-warn">▲ Unknown</span></td><td>Needed for config backup</td></tr>
+                </table>
+            </div>
+
+            <h3>Not Possible (No Skill/Tool Exists)</h3>
+            <div class="card">
+                <ul>
+                    <li>Weather (could use web search or maps API)</li>
+                    <li>Travel booking (Kayak, Expedia)</li>
+                    <li>Food delivery / restaurant ordering</li>
+                    <li>Banking API (Rabo, ING) — would need Open Banking/PSD2</li>
+                    <li>Apple Health / Google Fit (Garmin covers health)</li>
+                    <li>Native phone calling or SMS</li>
+                    <li>Package tracking (DHL, PostNL)</li>
+                    <li>Social media posting (LinkedIn, Twitter/X, Instagram)</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="section" id="roadmap">
+            <h2>Implementation Roadmap</h2>
+            
+            <h3>Phase 1: Restore Stalled Jobs (Next 24h)</h3>
+            <div class="card">
+                <ol>
+                    <li>Fix weekly restart script error — currently stuck in error state</li>
+                    <li>Trigger manual runs of Morning Brief v2, Biomarker Ingestion</li>
+                    <li>Verify email triage is writing drafts correctly</li>
+                </ol>
+            </div>
+
+            <h3>Phase 2: WhatsApp Activation (Next 3 days)</h3>
+            <div class="card">
+                <ol>
+                    <li>Run <code>hermes config path</code> to find actual config location on Windows</li>
+                    <li>Add WhatsApp server to config.yaml with phone credentials</li>
+                    <li>Restart gateway: <code>hermes gateway restart</code></li>
+                    <li>Test with a voice message: "Hey Hermes, remind me about..."</li>
+                </ol>
+            </div>
+
+            <h3>Phase 3: Reliability Hardening (Next week)</h3>
+            <div class="card">
+                <ol>
+                    <li>Install NSSM service wrapper for auto-restart</li>
+                    <li>Add Windows Task Scheduler monitor for gateway process</li>
+                    <li>Create health-check endpoint for uptime monitoring</li>
+                </ol>
+            </div>
+
+            <h3>Phase 4: Second Brain Enhancement (Ongoing)</h3>
+            <div class="card">
+                <ol>
+                    <li>Decide on long-term memory: mcpvault + LightRAG or simpler approach?</li>
+                    <li>Auto-ingest Garmin data to Obsidian daily health notes</li>
+                    <li>Auto-ingest email triage results to Obsidian</li>
+                    <li>One-way sync ClickUp tasks to Obsidian daily</li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="section" id="persona">
+            <h2>Thomas's Communication Profile</h2>
+            
+            <div class="card">
+                <h3>Register Patterns (Critical for Email Drafting)</h3>
+                <table>
+                    <tr><th>Recipient Type</th><th>Language</th><th>Style</th><th>Sign-off</th></tr>
+                    <tr><td>Friends/Family</td><td>Dutch</td><td>Warm, casual, typos OK</td><td>First name only or none</td></tr>
+                    <tr><td>Tenants Legal</td><td>Dutch</td><td>Formal, legal register</td><td>"Met vriendelijke groet, Thomas"</td></tr>
+                    <tr><td>English Professional</td><td>English</td><td>Structured-professional</td><td>"Best, Thomas" or "Thomas"</td></tr>
+                </table>
+                <p><strong>TTI Profile:</strong> DISC I=93 (High Influence) — Enthusiastic, optimistic, warm. Under pressure: over-confident, talkative. Compensates with frameworks.</p>
+            </div>
+
+            <div class="card">
+                <h3>Current Goals (2026)</h3>
+                <ol>
+                    <li>Ship DayVibe: Website Aug 17, MVP Sep 7, 200-user Alpha</li>
+                    <li>Run Utrecht Marathon under 3:15</li>
+                    <li>Stabilise income: AI consulting + BeBright + Aedes</li>
+                    <li>Florence trip Aug 17-20</li>
+                    <li>Financial systematization (4-playbook CFO synthesis)</li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Quick Reference: Key Commands</h2>
+            <div class="card">
+                <pre><code># Check current status
+hermes cron list
+hermes gateway status
+hermes model
+
+# Add WhatsApp (after obtaining token)
+# Edit ~/AppData/Local/hermes/config.yaml
+# Add under mcp_servers:
+
+whatsapp:
+  command: npx
+  args: [-y, web-whatsapp-mcp-server]
+
+# Restart gateway after changes
+hermes gateway restart
+
+# View skills by category
+hermes skills list
+
+# Check vault stats
+sqlite3 ~/.qmd/db.sqlite "SELECT COUNT(*) FROM obsidian_vault;"</code></pre>
+            </div>
+        </div>
+
+        <footer style="margin-top: 4rem; padding-top: 2rem; border-top: 1px solid var(--border); color: #666;">
+            <p>Generated from Hermes Agent research session — Config as of July 2026</p>
+            <p>This file lives in your Obsidian vault. Open it in Obsidian for full linking.</p>
+        </footer>
+    </div>
+</body>
+</html>

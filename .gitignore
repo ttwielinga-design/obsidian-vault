@@ -1,0 +1,25 @@
+# Obsidian workspace files (per-machine)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/hotkeys.json
+
+# Plugin data that can contain per-machine paths
+.obsidian/plugins/*/data.json
+
+# But DO track configs for git and rest-api
+!.obsidian/plugins/obsidian-git/data.json
+!.obsidian/plugins/obsidian-local-rest-api/data.json
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets and tokens
+*secret*
+*token*
+*api-key*
+*.pem
+
+# Smart env
+.smart-env/

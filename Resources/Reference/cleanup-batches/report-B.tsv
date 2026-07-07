@@ -1,0 +1,29 @@
+path	bucket	proposed_new_path	reason	confidence
+Resources/personal-documents/main.md	junk-binary	Archive/Junk/binary/main.md	Git object log; body is hex hash log, not readable content	high
+Resources/personal-documents/marieke--hospita-huurcontract.md	junk-low-confidence	Archive/Junk/low-confidence/marieke--hospita-huurcontract.md	PDF export with confidence=0.3, empty body	high
+Resources/personal-documents/naam-plaatje.md	junk-low-confidence	Archive/Junk/low-confidence/naam-plaatje.md	PDF export with confidence=0.3, empty body	high
+Resources/personal-documents/opencode.md	junk-binary	Archive/Junk/binary/opencode.md	Git object file; body is single hex hash	high
+Resources/personal-documents/orig-head.md	junk-binary	Archive/Junk/binary/orig-head.md	Git ORIG_HEAD; body is single hex hash	high
+Resources/personal-documents/pep--thomas-wielinga.md	junk-low-confidence	Archive/Junk/low-confidence/pep--thomas-wielinga.md	PDF export with confidence=0.3, empty body	high
+Resources/personal-documents/sipoc.md	untitled-needs-rename	Inbox/2024-10-14-sipoc.md	SIPOC document, clear title, confidence=0.8	high
+Resources/personal-documents/stash.md	junk-binary	Archive/Junk/binary/stash.md	Git refs/stash; body is single hex hash	high
+Resources/personal-documents/thomas2.md	junk-low-confidence	Archive/Junk/low-confidence/thomas2.md	PDF export with confidence=0.3, empty body	high
+Resources/personal-documents/thomas2-2.md	junk-low-confidence	Archive/Junk/low-confidence/thomas2-2.md	PDF export with confidence=0.3, empty body	high
+Resources/personal-documents/verklaring-herkomst-gelden--thomas-wielinga.md	junk-low-confidence	Archive/Junk/low-confidence/verklaring-herkomst-gelden--thomas-wielinga.md	PDF export with confidence=0.3, empty body	high
+Resources/personal-documents/xenodochial-herschel-f39d97.md	junk-binary	Archive/Junk/binary/xenodochial-herschel-f39d97.md	Git branch log; body is hex hash log	high
+Resources/personal-documents/yahoo-finance-price-provider.md	junk-binary	Archive/Junk/binary/yahoo-finance-price-provider.md	Git branch log; body is commit hash log	high
+Resources/Code/Google Colab/Untitled0.md	untitled-needs-rename	Resources/Code/Google Colab/colab-coding-tree-excel.md	Colab: Excel coding tree builder with pandas	high
+Resources/Code/Google Colab/Untitled1.md	untitled-needs-rename	Resources/Code/Google Colab/colab-construction-timeline-gantt.md	Colab: construction project timeline Gantt chart	high
+Resources/Code/Google Colab/Untitled2.md	untitled-needs-rename	Resources/Code/Google Colab/colab-hotel-booking-flow.md	Colab: HTML/Mermaid hotel booking flow diagram	high
+Resources/Code/Google Colab/Untitled3.md	untitled-needs-rename	Resources/Code/Google Colab/colab-hotel-marketing-dashboard.md	Colab: hotel marketing data analysis with openpyxl	high
+Resources/Code/Google Colab/Untitled4.md	untitled-needs-rename	Resources/Code/Google Colab/colab-finance-analysis-visualization.md	Colab: financial data viz matplotlib/seaborn	high
+Resources/Code/Google Colab/Untitled5.md	untitled-needs-rename	Resources/Code/Google Colab/colab-dayvibe-landing-page.md	Colab: DayVibe HTML landing page generator	high
+Resources/Code/Google Colab/Untitled6.md	untitled-needs-rename	Resources/Code/Google Colab/colab-global-investment-screener.md	Colab: global investment screening investpy/yfinance	high
+Resources/Code/Google Colab/Untitled7.md	untitled-needs-rename	Resources/Code/Google Colab/colab-investment-data-scraper.md	Colab: investment data multi-country scraper	high
+Resources/Code/Google Colab/Untitled8.md	untitled-needs-rename	Resources/Code/Google Colab/colab-stock-price-analysis.md	Colab: financial data with yfinance/matplotlib	high
+Resources/Code/Google Colab/Untitled9.md	untitled-needs-rename	Resources/Code/Google Colab/colab-web-scraper-async.md	Colab: async web scraper Playwright/BS4	high
+Resources/Code/Google Colab/Untitled10.md	untitled-needs-rename	Resources/Code/Google Colab/colab-dayvibe-word-document.md	Colab: DayVibe one-pager Word generator	high
+Resources/Code/Google Colab/Untitled11.md	untitled-needs-rename	Resources/Code/Google Colab/colab-hospitality-project-timeline.md	Colab: hospitality project timeline + HR	high
+Resources/Code/Google Colab/Untitled12.md	untitled-needs-rename	Resources/Code/Google Colab/colab-hospitality-planning-template.md	Colab: hospitality planning template Gantt	high
+Resources/Code/Google Colab/Untitled13.md	untitled-needs-rename	Resources/Code/Google Colab/colab-hsbc-loan-schedule.md	Colab: HSBC loan schedule with hedge calcs	high
+Resources/Code/Google Colab/Untitled14.md	untitled-needs-rename	Resources/Code/Google Colab/colab-eventtemple-dashboard.md	Colab: EventTemple dashboard analyzer	high

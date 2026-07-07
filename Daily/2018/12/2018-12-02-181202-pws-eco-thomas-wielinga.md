@@ -1,0 +1,872 @@
+---
+title: "181202 PWS ECO THOMAS WIELINGA"
+date: 2018-12-02
+source_file: "PERSONAL\SCHOOL\Gregorius\PWS\181202 PWS ECO THOMAS WIELINGA.pdf"
+source_type: pdf
+tags: [personal]
+area: Areas
+status: active
+confidence: 0.8
+imported: 2026-05-14
+---
+
+1 
+ 
+ 
+Het effect van de introductie van 
+de nieuwe Drank- en Horecawet per 
+1 januari 2014 op de alcohol-
+consumptie van jongeren onder de 
+18 jaar 
+ 
+ 
+Thomas Wielinga (V6) 
+St. Gregorius College Utrecht 
+Begeleider: De heer drs. W.M.M. Mokveld 
+Economie 
+ 
+ 
+
+2 
+ 
+Inhoudsopgave 
+ 
+Inleiding 
+Hoofdstuk 1 Een overzicht van (het wettelijk kader van) de biermarkt in 
+Nederland 
+- 
+Hoe de wet die op 1 januari 2014 is ingegaan in elkaar zit 
+- 
+Wat is de reden dat de leeftijd naar 18 jaar is gegaan? 
+- 
+Europese regels voor alcoholreclame 
+- 
+Regels bij het etiketteren 
+- 
+Soorten alcohol: welke alcoholische dranken drinken jongeren? 
+- 
+Economische bijdrage van de biermarkt 
+- 
+Overheidsinkomsten 
+ 
+Hoofdstuk 2 Marktonderzoek onder jongeren  
+- 
+Opzet van het marktonderzoek 
+- 
+Resultaten van de enquête onder jongeren 
+ 
+Hoofdstuk 3 Interview met de marketingdirecteur van een (familie-) 
+bierbrouwerij in Limburg 
+Hoofdstuk 4 Expertinterview met de GGD  
+Hoofdstuk 6 Conclusies 
+Hoofdstuk 7 Nawoord  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+3 
+ 
+Inleiding 
+ 
+Ik ben een zeventienjarige jongen. 
+ 
+Ik drink soms een biertje.  
+ 
+Samen met mijn vrienden. 
+ 
+Bij hen thuis, bij ons thuis of in het park. 
+ 
+Dit mag niet in het openbaar. 
+ 
+Niet meer. 
+ 
+Sinds in 2014 de nieuwe “Drank- en Horecawet” is ingevoerd is de wettelijke 
+leeftijd van het drinken in het openbaar van 16 naar 18 jaar gegaan. Ik was dus 
+nieuwsgierig naar wat het effect van deze wet op de bierbrouwerijen en de 
+jongeren. 
+ 
+De hoofdvraag van mijn profielwerkstuk is: Wat zijn de effecten van het 
+verschuiven van de leeftijdsgrens voor alcoholgebruik, en dan met name 
+de bierconsumptie, van 16 naar 18 jaar?  
+ 
+Deze vraag trekt mij aan vanwege een aantal redenen. Allereerst zie je meestal 
+wel een stukje in de krant staan over alcohol gebruik en bijvoorbeeld de effecten 
+daarvan op je hersenen. Verder interesseerde mij dit onderwerp omdat ik een 
+tiener ben en ik met mijn vriendengroep zweef tussen de leeftijden van 16 tot en 
+met 19 en we soms alcohol, en dan met name bier, drinken. Deelvragen van mijn 
+onderzoek zijn:  
+ 
+• Wat staat er eigenlijk in de Drank- en Horecawet? 
+• Waarom is de leeftijd omhooggegaan per 1 januari 2014? 
+• Hoe groot is de Nederlandse biermarkt? 
+• Op welke leeftijd gaan jongeren drinken? 
+• Wat is de rol van ouders? 
+• Van welke marketinginstrumenten maken brouwerijen gebruik? 
+• Zijn er nieuwe producten voor jongeren gelanceerd in plaats van 
+alcoholhoudend bier? 
+ 
+
+4 
+ 
+Ik geef allereerst een overzicht van (het wettelijk kader van) de biermarkt, waarbij 
+ik inzoom hoe de drank consumptie onder tieners is veranderd (hoofdstuk 1). 
+Deze vraag is belangrijk om als eerste te beantwoorden omdat dit een beeld 
+schetst of er daadwerkelijk verandering in het consumptiegedrag heeft 
+plaatsgevonden. Hiervoor ga ik kijken hoe jongeren onder de achttien jaar 
+omgaan met het feit dat zij sinds januari 2014 geen alcoholhoudende drank meer 
+publiek mogen consumeren en ook niet bij zich mogen dragen. Hiertoe heb ik 
+een marktonderzoek gedaan, waarvan ik de resultaten in hoofdstuk 2 bespreek.  
+In hoofdstuk 3 doe ik verslag van een interview met een bierbrouwerij uit Limburg 
+hoe zij hebben ingespeeld op de wetswijziging. Daartoe beschrijf ik hoe de 
+marketinginstrumenten (prijs, plaats, promotie en product) zijn veranderd. Ik ga 
+uitzoeken door allereerst te kijken van wat mogen bierbrouwerijen wettelijk nou 
+eigenlijk doen aan marketing? Zijn de marketingstrategieën veranderd sinds 
+januari 2014?  
+In hoofdstuk 4 bespreek ik of er een maatschappelijke effecten met een expert 
+van de GGD. Daarnaast ga ik kijken naar de statistieken of het bierconsumptie 
+gedrag daadwerkelijk is veranderd. 
+Tot slot volgen in hoofdstuk 5 mijn conclusies. 
+ 
+ 
+ 
+
+5 
+ 
+Hoofdstuk 1 Een overzicht van (het wettelijk kader 
+van) de biermarkt in Nederland 
+Hoe de wet die op 1 januari 2014 is ingegaan in elkaar zit 
+Vanaf 1 januari 2014 is de wetswijziging van de drank- en horecawet ingegaan 
+en de toegestane leeftijd waar op je mag drinken in het openbaar is verhoogd 
+naar 18 jaar (Drank- en Horecawet 2013, (“DHW”)). Dit geldt voor alle soorten 
+alcohol: sterke drank, maar ook voor bijvoorbeeld bier, wijn of mixdrankjes. Er is 
+nog meer veranderd: jongeren onder de 18 mogen geen alcohol bij zich hebben 
+in openbare ruimtes (op straat, in parken, op evenementen enzovoort). Als ze 
+toch alcohol bij zich hebben, kunnen ze een boete krijgen. 
+Wat is de reden dat de leeftijd naar 18 jaar is gegaan? 
+Als ouder wil je je eigen kind zo gezond mogelijk laten opgroeien. Deze wet helpt 
+hierbij. Alcohol verstoort de ontwikkeling van een aantal delen van de hersenen. 
+Ook drinken jongeren nu te vroeg, teveel en te vaak. Dit kan zorgen voor 
+overlast, overschrijden van grenzen en alcoholvergiftiging. Daarom is het 
+verstandig als jongeren tot hun 18de levensjaar geen alcohol drinken.  
+Desondanks deze maatregelen zijn er ‘bijna 10% meer comazuipende 
+jongeren’.1 Het aantal comazuipende jongeren is in 2017 toch weer toegenomen, 
+na een aanvankelijke daling in 2016. In 2016 waren het er 780 en in 2017 zijn 
+het er 860. Met deze gegevens kan je jezelf wel afvragen of de wetswijziging 
+heeft geholpen. De gemiddelde leeftijd van het eerste glas alcoholhoudende 
+drank is wel iets gestegen van 14,9 naar 15,5 jaar. De verhouding jongens 
+meisjes is wel ongeveer hetzelfde gebleven (55 en 45 procent). Je kan dus 
+zeggen dat de wetswijziging amper een effect heeft gehad op de zwaarste 
+drinkers, maar wel dat jongeren over het algemeen later zijn gaan drinken. 
+Europese regels voor alcoholreclame 
+Er zijn voor alcoholreclame twee belangrijke Europese regels, artikel 9 en 22 van 
+de Richtlijn Audiovisuele Mediadiensten. 2 Artikel 9 van de Richtlijn is vrij simpel, 
+reclame voor alcoholische dranken mag nooit gericht zijn op jongeren. Het 
+probleem is echter wel dat dit artikel zeer moeilijk is te controleren. Bijvoorbeeld 
+als ik kijk naar mijn Instagram ga zie ik regelmatig reclame van bier dat in de 
+                                                          
+1 NRC Handelsblad, 15 juni 2018, “Bijna 10 procent meer comazuipende jongeren”, artikel van 
+Koelewijn en Kohler over het rapport van het Nederlandse Signaleringscentrum Kindergeneeskunde 
+gepubliceerd op 15 juni 2018 
+2 https://www.stap.nl/nl/home/alcoholmarketing.html 
+ 
+
+6 
+ 
+aanbieding is. Dit komt hoogstwaarschijnlijk omdat ik om mijn Instagram account 
+net als veel andere jongeren niet mijn leeftijd heb ingevuld (of niet de juiste). 
+Hierdoor is het mogelijk voor supermarkten of biermerken om aan te geven dat 
+er alcohol in de aanbieding is. Dit mag natuurlijk niet maar het is heel erg lastig 
+voor de autoriteiten om te bepalen wanneer een reclame naast de doelgroep 18+ 
+ook een jongere doelgroep op het oog heeft. 
+Artikel 22 is wat gecompliceerder en meer gericht op het algemene alcohol 
+gebruik. Televisiereclame en telewinkelen met betrekking tot alcoholhoudende 
+dranken moeten aan een aantal criteria voldoen, ten eerste mogen zij zich niet 
+specifiek tot minderjarigen richten en mag in het bijzonder geen minderjarigen 
+tonen die dit soort dranken gebruiken. Verder mogen ze geen verband leggen 
+tussen alcoholgebruik en een verbetering van fysieke prestaties of 
+gemotoriseerd rijden. Ook mogen zij niet de indruk wekken dat alcoholgebruik 
+bijdraagt tot sociale of seksuele successen. Er mag ook niet worden 
+gesuggereerd dat alcoholhoudende dranken therapeutische kwaliteiten bezitten, 
+dan wel een stimulerend, kalmerend of spanning reducerend effect hebben. 
+Daarboven op mag het geen onmatig alcoholgebruik aanmoedigen dan wel 
+onthouding of matig alcoholgebruik in een negatief daglicht stellen. Ten slotte 
+mag er geen nadruk gelegd worden op het hoge alcoholgehalte van dranken als 
+positieve eigenschap. 
+Het komt er dus op neer dat een reclame voor een alcoholhoudende drank geen 
+positief imago mag afstralen en het dus niet mag lijken als of het goed voor je is 
+of dat het je een ‘boost’ geeft. 
+Soorten alcohol: welke alcoholische dranken drinken jongeren? 
+Wat uit het onderzoek van het Ministerie van Volksgezondheid, Welzijn en Sport 
+dat plaatsvond in 2016 blijkt is dat bier nog steeds in vergelijking met voorgaande 
+jaren, het meest gedronken alcoholistische drankje is: ‘69% van de jongeren 
+drinkt bier, 44% drinkt mixdrankje, 43% drinkt wijn en 32% sterke drank.’3 Het 
+biermerk dat het meeste gedronken wordt is naast een merk hetzelfde gebleven 
+in vergelijking tot voorgaande jaren. De meeste voorkomede merken onder 
+jongeren zijn nog steeds namelijk Heineken, Grolsch en Bavaria. 4 
+Volgens de Europese Commissie5 gaan Nederlandse jongeren gematigder om 
+met alcohol dan hun leeftijdsgenoten in Europa: in 2013 -14 is 17 procent van de 
+Nederlandse jongens van 15 jaar en 16 procent van de Nederlandse meisjes 
+                                                          
+3 Ministerie van Volksgezondheid, Welzijn en Sport, Onderzoek Drinkgedrag Jongeren, Oktober 2016  
+4 https://www.stap.nl/nl/home/alcohol-jongeren.html 
+5 https://www.stap.nl/nl/home/alcohol-jongeren.html 
+ 
+
+7 
+ 
+twee keer in hun leven dronken geweest. Het Europese gemiddelde ligt hoger, 
+namelijk op 27 en respectievelijk 24 procent. Het CBS stelt in hun Jaarrapport 
+Landelijke Jeugdmonitor 2017 dat dat onder scholieren van 12 tot 17 jaar het 
+aandeel scholieren dat ooit alcohol heeft gedronken spectaculair is gedaald in 
+de periode tussen 2003 en 2015 van 84 naar circa 45(!) procent. 6 
+Alcoholgebruik onder jongeren (12 tot 25 jaar) naar leeftijd 
+ 
+Uit een door het CBS aangehaald ander onderzoek blijkt dat vergeleken met 
+2003 jongeren in 2015 gemiddeld ruim een jaar ouder als zij voor het eerst 
+alcohol drinken: 12 jaar versus 13. Ook het alcoholgebruik in de maand 
+voorafgaand aan het onderzoek is die periode bijna gehalveerd van 56 naar 26 
+procent.7  
+De cijfers uit de Gezondheidsenquête van het CBS tonen ook een afname van 
+het alcoholgebruik onder 12- tot 25-jarigen. Deze is het sterkst onder jonge 
+tieners van 12 tot 16 jaar: in de periode tussen 2004 en 2006 had gemiddeld 
+ruim 40 procent in de afgelopen twaalf maanden alcohol gedronken, in 2014–
+2016 nog geen 20 procent. Onder 16- en 17-jarigen daalde het aandeel 
+drinkende jongeren eveneens, maar minder sterk: van 84 naar 69 procent. De 
+                                                          
+6 Jaarrapport Landelijk Jeugdmonitor 2017, https://jeugdmonitor.cbs.nl/publicaties/jaarrapport-2017  
+7 Jaarrapport Landelijk Jeugdmonitor 2017, https://jeugdmonitor.cbs.nl/publicaties/jaarrapport-2017   
+
+8 
+ 
+alcoholconsumptie onder jongvolwassenen van 18 tot 25 jaar is de afgelopen 
+tien jaar nauwelijks veranderd, zo concludeert het CBS. 
+Ondanks de hogere leeftijdsgrens en actiepannen (en afname van het 
+alcoholgebruik in het algemeen) is het aantal jonge coma zuipers toch weer flink 
+toegenomen. De gemiddelde leeftijd van coma zuipers is sinds 20107 iets 
+gestegen van 14,9 naar 15,5 jaar.8  
+Zwaar en overmatig alcoholgebruik onder drinkende jongeren 
+ (12 tot 25 jaar) naar leeftijd en geslacht, 2014/201
+ 
+Wat ook opvallend is, is dat er een heel sterk verband is tussen het aantal glazen 
+bier dat de jongere consumeert en zijn geslacht. Vrouwen drinken relatief minder 
+bier of totaal niet, zij neigen meer richting de mixdrank en de wijnen. En als ze 
+drinken houden ze het op een aantal grazen gemiddeld 3 of 4. Mannen 
+daarentegen drinken veel meer bier 89% en een grote meerderheid zegt ook dat 
+ze eigenlijk bijna alleen maar bier drinken.9 
+Economische bijdrage van de biermarkt 
+In Nederland zijn er op dit moment meer dan 400 bierbrouwerijen, van grote 
+internationale tot de kleinere lokale brouwerijen. Dit zorgt voor een grote 
+diversiteit aan bieren en bierstijlen. Niet alleen voor de Nederlandse markt, maar 
+                                                          
+8 NRC, vrijdag 15 juni, 2018, “Bijna 10 procent meer comazuipende jongeren” 
+9 Ministerie van Volksgezondheid, Welzijn en Sport, Onderzoek Drinkgedrag Jongeren, Oktober 2016 
+
+9 
+ 
+ook voor het buitenland. Niet voor niets is Nederland een van de grootste 
+bierexporteurs ter wereld.10  
+In 2016 is in Nederland zo’n 24 miljoen hectoliter bier gebrouwen. Daarvan werd 
+15,5 miljoen hectoliter geëxporteerd. Nederland staat hier mee in de top 3 van 
+het exporteren van bier. De consumptie van bier in Nederland is gestagneerd. 
+Er is wel en duidelijke groei van de markt voor alcoholvrij bier. Dit lijkt mede te 
+zijn gekomen door de verandering in de wetgeving, waarover later meer.  
+(In hectoliter x 1.000) 
+Afzet  Bierbrouwerijen in Nederland11 
+  
+  
+  
+2013 
+2014 
+2015 
+2016 
+2017 
+Jaarlijkse 
+Groei 
+Totale biermarkt 
+10,361 
+11,326 
+11,531 
+10,031 
+10,039 
+-0.8% 
+Alcolholvrij 
+181 
+260 
+329 
+386 
+482 
+27.7% 
+ 
+Daarmee komt de bierconsumptie per hoofd van de bevolking in Nederland uit 
+op (10.039.000 (hectoliter) / 17.080.000 = 587 liter per hoofd van de bevolking. 
+Als we kijken naar de bierconsumptie van 18 jaar of ouder gaat het om 733 liter 
+per hoofd van de bevolking. Dat is meer dan 2 liter per dag!12 
+Overheidsinkomsten 
+Doordat er in Nederland net als in veel andere landen accijns zijn op bier en 
+andere alcoholische dranken profiteert de overheid ook van de biermarkt. In 
+Nederland levert accijns op bier ongeveer 451 miljoen euro op. De rest van de 
+opbrengsten is de BTW. In totaal draagt de biermarkt 2,14 miljard euro bij aan 
+de schatkist. 13 Accijns op pils (het meest gedronken bier in Nederland) bedraagt 
+circa €37,96 per 100 liter. De verkoopprijs van een krat bier is circa 12 euro, 
+daarvan gaat 7 euro naar de bierbrouwerij en 5 euro naar de overheid in de vorm 
+van accijns en btw.  
+Door de hoge accijns is de inkoopprijs van bier hoog voor de horeca, hetgeen 
+uiteraard doorbelast wordt aan de consument. De gemiddelde prijs voor een 
+biertje in Amsterdam, Nederland is 5,40 euro. In Berlijn, Duitsland is dit maar 4 
+                                                          
+10 www.nederlandsebrouwers.nl/bierzector/bier-en-economie, geraadpleegd 22 augustus 2018 
+ 
+11 Bierbrouwers (2018, 2017, 2016, 2015, 2014 en 2013.), www.bierbrouwers.nl, geraadpleegd op 30 
+november 2018 
+12 
+Gegevens 
+CBS, 
+Bevolking; 
+geslacht, 
+leeftijd 
+en 
+burgerlijke 
+staat, 
+1 
+januari 
+2018 
+http://statline.cbs.nl/StatWeb/publication/?VW=T&DM=SLNL&PA=7461BEV&D1=0&D2=a&D3=1-
+27%2c101-105%2c121-123%2c131&D4=l&HD=110621-1139&HDR=T%2cG3%2cG1&STB=G2 
+en 
+Bierbrouwers (2018) www.bierbrouwers.nl, geraadpleegd op 30 november 2018 
+13    Bierbrouwers (2018), www.bierbrouwers.nl, geraadpleegd op 30 november 2018 
+
+10 
+ 
+euro en bij onze zuiderburen in Brussel is het 4,30 euro. Uiteraard wordt de prijs 
+van een biertje ook door andere factoren bepaald, zoals de huur van het horeca 
+pand en personeel, maar Nederland heeft een van de hoogste accijnzen op bier 
+ter wereld (zelfs hoger dan op sterke drank).14 
+                                                          
+14   Bierbrouwers (2018), www.bierbrouwers.nl, geraadpleegd op 30 november 2018. 
+
+11 
+ 
+Hoofdstuk 2 Marktonderzoek bierconsumptie onder 
+jongeren 
+Opzet van het marktonderzoek 
+Op 5 oktober heb ik een enquête uitgestuurd via de sociale media “Instagram” 
+en “Snapchat”. De enquête was gemaakt in Google Forms en stond open tot en 
+met 12 oktober middernacht. De enquête is doorgestuurd door 2 mannelijke 
+vrienden van me en door 2 vrouwelijke vrienden die op verschillende Utrechtse 
+scholen zitten (Gregorius, Rietveld, Boni, CGU); met 73% van de respondenten 
+lijkt de enquête representatief voor jongeren onder Utrechtse (HAVO / VWO) 
+middelbare scholen. 
+ 
+Cirkeldiagram 1: Respondenten naar onderwijs 
+ 
+Resultaten van mijn onderzoek 
+Er hebben 214 mensen gereageerd (bruto response). Drie ingevulde enquêtes 
+heb ik afgekeurd omdat duidelijk was dat de respondenten niet serieus waren in 
+hun antwoorden. In totaal heb ik dus 211 respondenten  (netto response). 
+Zoals uit onderstaand cirkeldiagram blijkt is 76% van de enquête ingevuld door 
+vrouwen. Ik denk niet dat deze ongelijke verdeling invloed heeft op de verdere 
+uitkomsten van de enquête. De betere response onder vrouwen lijkt te duiden 
+op het feit dat vrouwen over het algemeen serieuzer zijn dan mannen en graag 
+meewerken aan serieus onderzoek; de drie enquêtes die zijn verwijderd in 
+verband met onzinnig commentaar waren ook ingevuld door mannen.  
+
+12 
+ 
+ 
+Diagram 2 en 3: Respondenten naar geslacht en leeftijd 
+Het merendeel van de respondenten drinkt alcohol. Mannen slechts een fractie 
+meer alcohol meer dan vrouwen (2%). Mannen drinken alleen maar bier, terwijl 
+vrouwen ook andere alcoholische dranken drinken. In het vervolg van het 
+bespreken maak ik geen onderscheid tussen vrouwen en mannen, omdat er 
+geen grote verschillen zijn. De gemiddelde leeftijd van de respondenten was 16,1 
+jaar, de mannen iets ouder dan de vrouwen: 16,4 jaar versus 16.0 jaar. Dat is 
+wellicht te verklaren omdat mijn jongere zus (14 ½ jaar) de enquête ook heeft 
+uitgestuurd. Ik denk niet dat de resultaten heeft beïnvloed.  
+ 
+Cirkeldiagrammen 4 en 5: Drinkgedrag van vrouwen en mannen  
+Bier wordt, veelal illegaal gekocht (of via meerderjarige vrienden doorverkocht) 
+aan jongeren. Daartoe maken jongeren gebruik van een “fake ID” of ze gaan 
+“posten”, dat wil zeggen dat je vraagt aan een onbekende meerderjarige buiten 
+de supermarkt of die wat voor je wilt “halen”. Uit ervaring weet ik dat bijna iedere 
+student hier wel aan meewerkt(!) 15,16 
+Jongeren houden van merkbier. Veruit het meest favoriet zijn de merkbieren met 
+Hertog Jan, Heinenken en Desperados aan kop. Slechts 1 respondent gaf bij 
+                                                          
+15 Bij tests die zijn uitgevoerd in het kader van het Preventieakkoord bleek dat zes op de tien 
+minderjarige jongeren probleemloos alcohol kunnen kopen. (NRC Handelsblad, Bier? Chips?, 30 
+november 2018.  
+16 NRC Handelsblad, Meerderheid jongeren onder de 18 krijgt makkelijk alcohol mee, 23 juli 2018. 
+
+13 
+ 
+deze vraag aan dat hij het goedkoopste bier dronk. In de categorie. Meer dan 
+40% van de respondenten koopt echter hun merk wel als het in de aanbieding 
+is. Het lijkt erop dat dat bierbrouwerijen meer zijn gaan “stunten” met hun bier na 
+de nieuwe wetgeving. 40% van de jongeren geeft aan dat ze drinken waar ze zin 
+in hebben en dat de prijs van het bier bij hun geen rol speelt.   
+Cirkeldiagrammen 6 en 7: Het meest favoriete bier onder jongeren en hun 
+koopgedrag 
+Jongeren beginnen al vroeg met drinken. Bijna de helft van de respondenten 
+nuttigen hun eerste biertje voor hun 15e jaar, 35% op hun 15e en iets meer dan 
+10% op hun 16e; op twee mensen na begint iedereen met drinken onder de 
+leeftijd die in de wet is vastgelegd. Het gemiddelde van 14,3 jaar komt overeen 
+met het gemiddelde dat in andere studies wordt gevonden. Die studies van het 
+Nederlands instituut van alcoholbeleid weergeven aan dat de verlaging van 
+leeftijd tot gevolg heeft gehad dat jongeren later gaan drinken.  
+ 
+Diagram 8: Leeftijd wanneer het eerste biertje wordt gedronken 
+De bierconsumptie onder jongeren varieert, hoewel het lijkt dat de respondenten 
+niet helemaal eerlijk zijn. Het merendeel, 62%, geeft aan dat ze 0 – 3 glazen bier 
+per week drinken en ‘slechts’12% drinkt meer dan zeven glazen per week. Als 
+er echter wordt gevraagd naar het drinkgedrag van hun vrienden dan zou er 
+beduidend meer worden gedronken. 46% drinkt dan 0 – 3 glazen per week en 
+20%(!!) drinkt meer dan 7 glazen per week.  
+
+14 
+ 
+ 
+Cirkeldiagrammen 9 en 10: Bierconsumptie van de respondenten en van 
+hun beste vriend(in) 
+Dat het drankgebruik onder jongeren (te?) hoog is blijkt ook uit de vraag of ze 
+weleens over de grens zijn gegaan met drank: het merendeel van de 
+respondenten, 53%, bevestigt dit.  Deze percentages [komen overeen] met 
+andere studies die aangeven dat x% van de jongeren weleens over de grens zijn 
+gegaan. Dit percentage is niet afgenomen door de nieuwe wetgeving.  
+ 
+ 
+Cirkeldiagrammen 11: Ben je weleens over de grens gegaan met drank?  
+Ondanks de nieuwe wet is drank blijkbaar voldoende beschikbaar voor jongeren 
+onder 18. De meeste drank wordt wel gedronken in de privésfeer, op feestjes en 
+bij vrienden. Een kleiner percentage geeft aan dat ze ook drinken als ze uitgaan. 
+Ik heb niet gevraagd of ze met een vals ID uitgaan en dan bier in het café krijgen. 
+Dit is een tip voor vervolgonderzoek.  Uit het expertinterview met de 
+marketingdirecteur van een bierbrouwerij blijkt wel dat er in Limburg cafés zijn 
+gesloten omdat zij grotendeels afhankelijk waren van bierconsumptie onder 
+jongeren onder de 18. In Limburg is er een kleinere studenten gemeenschap en 
+hebben café-eigenaren dus geen andere afzetmarkten.  
+
+15 
+ 
+ 
+Cirkeldiagrammen 12: Waar drink je bier?  
+De respondenten zijn bijna unaniem in hun oordeel dat de wet- en regelgeving 
+omtrent drank geen invloed op ze heeft. Ze zeggen dat ze de wet en de 
+consequenties (boete) wel kennen, maar gegeven hun drinkgedrag doen er in 
+de praktijk weinig mee.  Slechts 8% kent de wet niet. 
+ 
+Cirkeldiagrammen 13: Ken jij de wet en de consequenties?  
+De respondenten zijn bijna unaniem in hun oordeel dat de wet geen effect heeft 
+gehad op het drinkgedrag onder jongeren. Ze denken dat er meer stiekem wordt 
+gedronken (3%) en zelfs een negatief effect is (8%).  
+ 
+Cirkeldiagrammen 14: Wat denk je dat de wet heeft bereikt? 
+Tot slot heb ik gevraagd naar hoe ouders tegenover drank staan, omdat ouders 
+immers een rolmodel voor hun kinderen zijn. De meeste ouders, 43%, gedogen. 
+Slechts 14% zijn erop tegen. Er lijkt geen verband te bestaan tussen ouders die 
+
+16 
+ 
+onverschillig zijn en jongeren die over de grens gaan en jongeren waarvan de 
+ouders tegen zijn op alcohol onder de 18: 65% van de jongeren geeft aan dat ze 
+1 of meerdere keren over de grens zijn gegaan met bier.  
+ 
+ 
+Wat ik wel interessant vond is dat jongeren later gaan drinken door de houding 
+van ouders. Zoals gesteld ligt de gemiddelde leeftijd op 14,3 jaar, jongeren die 
+aangeven dat hun ouders onverschillig tegenover alcohol staan drinken hun 
+eerste biertje op 13,9 jaar, jongeren met ouders die niet blij zijn met drinken op 
+jonge leeftijd, maar het gedogen drinken hun eerste biertje op 14,6 jaar. 
+Jongeren met ouders die erop tegen zijn en het verbieden beginnen te drinken 
+op 14,3 jaar. Wellicht maakt verbieden het toch interessanter?! 
+Wat ik heb kunnen merken uit deze enquête is dat het inderdaad zo is dat 
+jongeren veel vroeger drinken dat dat ze eigenlijk mogen. Maar ook dat ouders 
+het redelijk vaak goed vinden/gedogen dit komt vaak doordat ze zeggen van ‘ik 
+deed het vroeger ook’, maar ook al klopt dit is er nog steeds een reden waarom 
+de alcoholleeftijd naar 18 is gegaan het is zeker niet om een slechte reden. 
+ 
+ 
+ 
+
+17 
+ 
+Hoofdstuk 3 Interview met bierbrouwerijen 
+Ik heb voor mijn onderzoek voor een dag meegelopen 
+bij brouwerij X in Limburg. Ik heb deze brouwerij 
+anonimiteit moeten garanderen. Hiernaast beschrijf ik 
+hoe het bier wordt gemaakt. 
+ 
+Ik heb aan [de persoon die je hebt gesproken] een 
+aantal vragen gesteld:  
+Hoe is voor jullie als bierbrouwerij de doelgroep 
+veranderd na deze leeftijdsverschuiving van 16 naar 18 
+jaar? Hoe zag jullie doelgroep er eerst uit? Wat is de 
+doelgroep nu?  
+Op deze vraag is er geen eenduidig antwoord: jongeren 
+onder de 18 drinken nog steeds veel bier en wij hebben 
+het gevoel dat dat ook na de wetswijziging nog zo is. 
+Wellicht dat de leeftijd waarop het eerste biertje wordt 
+gedronken iets hoger is geworden. Hetzelfde uit. Wat je 
+wel merkt is dat de vraag naar bier bij de cafes die zich 
+traditioneel op jongeren onder de 18 richten is 
+afgenomen. Daar hebben/ hadden we er hier in Limburg 
+heel veel van.  
+Meeloop dag Brouwerij 
+Ik heb een dag mogen 
+meelopen bij een commerciële 
+brouwerij in Limburg.  
+Voordat ik vragen heb gesteld 
+kreeg ik eerst een rondleiding 
+van de brouwerij. Deze begon 
+bij de verpakkingsmachine. 
+Hier zag ik hoe nadat het bier 
+gemaakt was al het bier in de 
+flesjes werd gedaan.  
+Hierna kreeg een filmpje te 
+zien over de geschiedenis van 
+de brouwerij en hoe het bier 
+gemaakt werd.  
+Eerst wordt her graan in de 
+mouterij klaar gemaakt zodat 
+de brouwer er bier mee kan 
+brouwen. De moutkorrels 
+worden gemalen, zodat het 
+binnenste van de korrel goed in 
+contact kan komen met het 
+water. Daarna worden de 
+geplette mout korrels gemengd 
+met water. Dit mengsel wordt 
+daarna geleidelijk opgewarmd, 
+zodat de enzymen het zetmeel 
+uit de mout kunnen omzetten in 
+suiker. Tijdens de filtering 
+worden de onoplosbare resten 
+(de “draf”) gescheiden van het 
+wort dat we nodig hebben voor 
+het brouwen. Het wort is een 
+klare oplossing van suikers die 
+we kunnen gaan vergisten. Na 
+het filteren wordt het wort 
+gekookt. Hierna wordt het wort 
+afgekoeld en voorzien van 
+voldoende zuurstof. In de 
+gistingstank wordt de gist aan 
+het wort toegevoegd. Door de 
+gist worden de suikers in het 
+brouwsel omgezet naar alcohol 
+en naar koolzuurgas. Het bier 
+koelt af en gaat naar de 
+lagertanks. Daar rijpt het 
+enkele dagen in de luchtdichte 
+tanken aan een temperatuur 
+rond het vriespunt. Zo kunnen 
+de smaken zich ten volle 
+verder ontwikkelen. Het bier 
+wordt een laatste keer gefilterd, 
+zodat het bier goed helder is 
+voor de afvulling. En tenslotte 
+is het bier is klaar om afgevuld 
+te worden in flesjes of vaten. 
+ 
+
+18 
+ 
+Is de promotie van jullie bier veranderd? Met als deelvragen: hoeveel werd er in 
+het jaar 2014 geïnvesteerd in reclame voor jongeren, hoeveel is dat nu?  
+Onze promotie is niet echt veranderd. De reden hiertoe is dat de wetten rond het 
+reclame maken niet zijn veranderd; het enige wat daarin is veranderd is dat er 
+geen reclame mag worden gemaakt met als doel minderjarigen (onder de 18) te 
+bereiken waar we voorheen we ons ook nog mochten richten op jongeren vanaf 
+16 jaar. Ons budget is nier veranderd, maar ik (vanuit concurrentiegevoeligheid) 
+kan niet aangeven hoeveel wij uitgeven aan reclame en marketing, maar we 
+splitsen dit ook niet naar doelgroep.  
+Is er een uitbreiding of verkleining geweest van marketing? Wordt er ook nog op 
+een andere manier promotie gemaakt (bijv. events)?  
+Het sponsoren van events, en andere evenementen is een groot onderdeel van 
+onze marketingstrategie. We doen er alles aan om te werken aan merktrouwheid 
+en events en sponsoren helpt daarbij. Op het moment dat jij als consument altijd 
+hetzelfde merk drinkt ben jij merk trouw en dat vertaalt zich in loyale klanten die 
+keer op keer ons bier kopen. Dit proberen wij te bereiken door ons bier al vroeg 
+aan de man of vrouw te brengen. Wat wij niet doen, omdat het te kostbaar is, 
+maar wel heel effectief, is bier aan studenten verenigingen leveren tegen 
+kostprijs. De grote merken doen dit zodat ze een hoge merktrouwheid bereiken, 
+want het meeste bier consumeer je in je studententijd.  
+Zijn er nieuwe producten op de markt hebben gebracht en zo ja of ze meer 
+gericht waren op jongeren.  
+Jazeker! Sinds de wetswijziging is ook deze brouwerij ook in gestapt op de trend 
+van Radler en het 0% bier. Radler komt uit Duitsland en is uitgevonden door de 
+Beierse Franz Kugler, ooit eigenaar van een Beierse kroeg. Hij trof regelmatig 
+fietsers aan op zijn terras. In 1922 kwam hij op het idee om bier met vruchtensap 
+te mengen, om zo een lekker verfrissend en dorstlessend drankje aan zijn 
+klanten te kunnen aanbieden. Het woord Radler is grappig genoeg ook afgeleid 
+van een Duits woord namelijk Fahrrad. Bier voor fietsers dus!  
+Alcoholvrije bieren mogen tot 0,1% alcohol bevatten. (Alcoholarme bieren niet 
+meer dan 1,2%.) Alcoholvrije bieren bevatten zodoende vijftigmaal minder 
+alcohol dan het alcoholpercentage van een gemiddeld pilsener (5%). In 
+vergelijking met gewoon bier levert het drinken van een liter alcoholvrij bier 
+daardoor geen noemenswaardige alcoholconcentratie in het bloed op. De kleine 
+concentratie alcohol die in het bloed terechtkomt, kan snel door de lever worden 
+afgebroken. De reden dat er toch iets van een alcoholpercentage in het bier mag 
+zitten heeft te maken met dat het bij het gistingsproces er eigenlijk altijd alcohol 
+vrijkomt dus het is praktisch niet mogelijk om alcoholvrij bier te maken.  
+
+19 
+ 
+Deze trends hebben na de wetswijziging een groot deel uitgemaakt van de onze 
+productontwikkeling, omdat we daarmee een grotere doelgroep, waaronder 
+jongeren onder 18, weten te bereiken 
+En tenslotte vroeg ik of er binnen de brouwerij veranderingen zijn geweest sinds 
+dat de nieuwe wet is aangenomen. 
+Zoals ik hiervoor heb gezegd hebben wij onze alcoholvrije en -arme 
+bierproductielijn opgeschaald en geven hier ook in onze promotie meer aandacht 
+aan.  
+ 
+ 
+ 
+
+20 
+ 
+Hoofdstuk 4 Expertinterview (GGD) 
+Kunt u zich voorstellen en aan mij uitleggen wat u doet? 
+Ja, 
+mijn 
+naam 
+is 
+Truus 
+van 
+der 
+Lij, 
+mijn 
+functie 
+is 
+adviseur 
+gezondheidsbevordering. Wat ik doe is dat ik gemeente ondersteun op welke 
+manier ze kunnen werken aan de gezondheid van hun inwoners. En een van de 
+onderwerpen is het voorkomen van overmatig alcoholgebruik bij jongeren onder 
+de achttien jaar. En daar hebben wij met tien gemeenten een akkoord 
+afgesproken om het overmatig alcoholgebruik onder minderjarige jongeren echt 
+terugdringen, van dit akkoord ben ik de coördinator. Dus eigenlijk samen met 
+hen proberen we te kijken hoe we dit doel kunnen bereiken. 
+Wat is het doel van de GGD? 
+Het doel van de GGD is het beschermen, het bewaken en het bevorderen van 
+de gezondheid van de inwoners van de provincie Utrecht.  
+Weet u of de GGD of de alcoholconsumptie onder jongeren is veranderd sinds 
+die wetswijziging? 
+Jazeker. Er is een duidelijke trend in afname van alcoholgebruik door jongeren. 
+We zien dat de leeftijd van jongeren die voor het eerst alcohol drinken omhoog 
+is gegaan.  Het landelijk gemiddelde is 13,2 (was 12,5 jaar). Die ontwikkeling is 
+al duidelijk te zien vanaf 2013, dus al voor het instellen van de nieuwe wet. Deze 
+heeft wel de trend versterkt. Het enige wat niet is afgenomen sinds de 
+wetswijziging is binge drinken, dat is veel drinken in een keer. Hier verstaan wij 
+onder voor jongens meer dan 5 glazen op een avond en voor meisjes meer dat 
+4 glazen op een avond. Er is dus geen afname in overmatig drankgebruik.  
+Hoe mag de marketing op jongeren worden toegepast? 
+Officieel is afgesproken dat ze geen reclame mogen richten op jongeren onder 
+de achttien. Daar houden ze zich formeel ook aan maar, dat is in werkelijkheid 
+helemaal niet zo, want ik weet dat bijvoorbeeld op sociale media platforms nog 
+steeds regelmatig alcoholreclames voorbijkomen bij jongeren onder de 18. De 
+alcoholproducenten/ bierbrouwerijen zeggen wel dat ze zich niet richten op 
+jongeren onder de 18, maar in werkelijkheid is dit natuurlijk eigenlijk bijna 
+onmogelijk na te kijken.  
+Wat houdt de GGD tegen om eigenlijk (nog) beter onderzoek te kunnen doen? 
+Een probleem die wij hebben is dat we eigenlijk samen met de 25 andere GGD’s 
+een veel te klein budget hebben om goed onderzoek te kunnen doen naar die 
+biermarkt. Het is dus voor ons als GGD erg lastig. 
+
+21 
+ 
+Weet de GGD of er een financieel effect is geweest op de biermarkt door de 
+wetswijziging? 
+Ja, er is zekere een effect, maar wat je wel ziet en wat ze ook heel erg handig 
+doen is dat ze ineens heel snel de overstap naar alcoholvrij bier promoten 
+hebben gedaan. En ook daarvan zeggen de bierbrouwers we richten ons totaal 
+niet op 18 min in realiteit is deze claim natuurlijk bijna niet mogelijk om na te 
+trekken. Wat je wel ziet is dat in 2003 80% van de jongeren tussen de 12 en 18 
+jaar alcohol dronk en wat je nu ziet is dat er in 2017 het nog 40% van de groep 
+alcohol drinkt. Dit is natuurlijk ook een grote klap voor de bierbrouwerijen. Wat 
+wij als GGD nu aan het proberen zijn is dat het in de toekomst nog verder daalt. 
+Natuurlijk voelen brouwerijen dat in hun portemonnee. 
+Oefent de politiek nog veel druk uit op alcoholproducten of is het gestopt na de 
+wetswijziging? 
+Op dit moment is het kabinet bezig met het preventieakkoord en daarin staan 
+drie onderwerpen: (i) ze willen overgewicht terugdringen, (ii) het alcoholgebruik 
+terugdringen en (iii) zorgen voor een rookvrije generatie in 2030. Uit onderzoek 
+blijkt dat de meest effectieve maatregelen prijsmaatregelen zijn dus accijns of 
+geen acties meer op alcohol. Dat staat allemaal in het voorstel en dat vinden 
+bierbrouwers niet heel fijn. Maar ook zal er gekeken worden naar sponsering. 
+Dat is natuurlijk ook een taak van de gemeente. Dat er echt niet wordt 
+geschonken aan achttien min of aan dronken mensen. Daarin gaan ze de 
+komende jaren echt wat strenger in worden. 17 
+                                                          
+17 Ondertussen is het Preventieveakkoord gepubliceerd. In het Nationaal Preventieakkoord staan 
+maatregelen tegen problematisch alcoholgebruik. De belangrijkste maatregelen die in het 
+preventieakkoord voor wat betreft alcohol preventie staan: 
+ 
+• 
+Scholen en universiteiten zetten zich in om het alcoholgebruik onder jongeren en studenten 
+terug te dringen. De koppeling tussen sport en alcohol moet veranderen. Vanaf 2019 sluiten 
+amateursportclubs bijvoorbeeld geen nieuwe contracten met drankfabrikanten meer voor 
+alcoholreclame langs sportvelden. 
+• 
+Jongeren moeten minder in aanraking komen met alcoholreclame. Voor 2021 komen de 
+drankfabrikanten en verstrekkers van alcohol, zoals slijterijen, hiervoor met oplossingen. 
+• 
+In 2022 heeft 70% van de verloskundigen een training gevolgd om alcoholgebruik bespreekbaar 
+te maken bij zwangere vrouwen. 
+• 
+Medewerkers en vrijwilligers die alcohol schenken in sportkantines moeten uiterlijk in 2025 een 
+cursus doen. Zodat ze zich kunnen houden aan de leeftijdsgrens voor alcoholverkoop. En dat ze 
+weten wat ze moeten met dronken mensen. In 2040 is het eten en drinken in 80% van de 
+sportkantines gezonder. Zij bieden bijvoorbeeld geen ‘happy hours’ of meters bier meer aan. 
+ 
+Het Expertisenetwerk Verslavingskunde Nederland is toch nog niet helemaal tevreden. "Weliswaar wordt 
+alcoholpreventie geïntensiveerd, maar dit gaat wat ons betreft niet ver genoeg. Het is duidelijk dat niet 
+alleen gezondheidsbelangen hebben meegewogen, maar ook die van bijvoorbeeld de alcoholindustrie. 
+
+22 
+ 
+Eigenlijk lopen de wetten in de randsteden redelijk goed en in de provincies die 
+meer platteland hebben worden deze wetten eigenlijk verwaarloost hoe komt dit 
+eigenlijk? 
+Nou ik zou niet willen zeggen dat de wetten verwaarloosd worden maar dat het 
+voor dorpen het lastiger is om deze wetten te handhaven omdat er geen centrale 
+plek is en dus is het voor de autoriteiten ook moeilijker toezicht te houden. Een 
+voorstel dat wij hier in Zeist hebben is dat de grote verenigingen geen grote 
+pitchers meer mogen verkopen. Hierdoor is het makkelijker om te handhaven 
+wie wel en wie niet 18 is.  
+Hoe ziet u de toekomst van het alcohol gebruik in Nederland? 
+Eigenlijk wat je nu ziet met het roken is wat we gaan proberen te bereiken in de 
+komende 10 tot 20 jaar. We willen echt gaan werken naar een generatie die op 
+zijn minst 18 voor het eerste drankje en misschien nog wel ouder. Een trend die 
+wij nu proberen te doorbreken is dat ouders het drankgebruik bij hun kinderen 
+gedogen omdat ze het vroeger ook deden. Deze trend is eigenlijk helemaal niet 
+goed en we proberen als GGD ook te zorgen dat dit in de komende jaren steeds 
+minder voorkomt. 
+ 
+ 
+                                                          
+Verslavingskunde Nederland pleit voor de inzet van objectieve, wetenschappelijk gefundeerde 
+beleidsmaatregelen en interventies." (Skipr, 23 november 2018) 
+
+23 
+ 
+Hoofdstuk 5 Conclusies 
+Het is inderdaad zo is dat jongeren veel vroeger drinken dat dat ze eigenlijk 
+mogen, maar de nieuwe Drank- en Horecawet die is ingevoerd op 1 januari 2014 
+heeft wel degelijk effect gehad: 
+• Diverse onderzoeken (GGD, CBS) tonen aan dat jongeren beduidend 
+later zijn gaan drinken en meer bewust met alcohol omgaan. De 
+gemiddelde leeftijd die uit mijn onderzoek kwam was 14,3 dit komt 
+overeen met het gemiddelde van de provincie Utrecht. Uit mijn eigen 
+marktonderzoek blijkt dat de houding van ouders mede beïnvloedt op 
+welke leeftijd jongeren hun eerste biertje gaan drinken: jongeren gaan 
+later drinken door de (meer kritische) houding van ouders. Veel ouders 
+(43%) gedogen wel het drinken van alcohol een teken dat drinken van 
+alcohol verweven zit in onze cultuur. De jongeren in mijn onderzoek 
+ontkennen overigens het effect van de wetgeving op hun gedrag, wellicht 
+kunnen zijn ook dit niet overzien, omdat zij zelf onderwerp van studie zijn.  
+• Binge drinken (het drinken van vijf of meer glazen bij één gelegenheid) 
+onder jongeren is niet afgenomen door de nieuwe wetgeving. Uit het 
+rapport van het CBS blijkt wel dat het binge drinken van 12 tot 17 jaar in 
+2015 vaker voorkwam (onder leerlingen van het vmbo dan het vwo). 
+• Het lijkt, op basis van mijn interview met een bierbrouwerij, dat er in de 
+kleine dorpen, waar geen actief studentenleven is er veel klandizie is 
+weggevallen omdat ze geen bier meer aan jongeren mogen schenken. Dit 
+zou een interessant onderwerp voor nader onderzoek kunnen zijn.  
+• Uit de gesprekken met de bierbrouwer en uit data over de ontwikkeling 
+van de Nederlandse biermarkt komt duidelijk naar voren dat het 
+productaanbod ten gunste van alcoholvrij bier is veranderd. Uit cijfers over 
+bierconsumptie blijkt dat de markt voor alcoholvrije bier met meer dan 
+20% per jaar in omvang is gegroeid.  
+• Bierbrouwerijen geven aan dat ze geen andere marketinginstrumenten 
+inzetten om de teruggevallen vraag onder jongeren op te vangen, maar 
+dat kan in twijfel worden getrokken. Alcohol mag nog steeds met korting 
+worden aangeboden en dus jongeren die prijsbewust zijn, zijn gevoelig 
+voor acties als “2 halen, 1 betalen” doen het goed onder jongeren. Uit mijn 
+onderzoek blijkt dat meer dan 40% van de respondenten hun merk koopt 
+als het in de aanbieding is. 
+• In het interview met een kleinere brouwerij uit Limburg kwam naar voren 
+dat vooral kleinere brouwerijen een moeilijke tijd hebben door de 
+ophoging van accijns en het verliezen van een doelgroep als gevolg van 
+de wetswijziging. Innovaties als Radler en alcoholvrij bier moeten dit 
+verlies opvangen. 
+
+24 
+ 
+• Er valt nog veel te doen aan het verder terugdringen van alcoholgebruik 
+onder jongeren blijkt uit de diverse interviews en uit het Preventieakkoord. 
+Immers nog 45% drinkt nog alcohol onder de 18 jaar. Het is dus zorgelijk 
+dat alcohol er in het Preventieakkoord mild vanaf komt; er worden veel 
+intenties uitgesproken, maar weinig concrete daden.  
+Zoals uit bovenstaande blijkt heeft de nieuwe Drank- en Horecawet duidelijk 
+invloed gehad op de bierconsumptie onder jongeren. Er valt ook nog wel wat te 
+doen en het lijkt dat het Preventieakkoord een verdere stap in de juiste richting 
+is, hoewel ik persoonlijk van mening ben dat af en toe een biertje vanaf je 17e 
+jaar eigenlijk best wel kan. Alles met mate natuurlijk, dus geen binge-drinken. 
+Dat is voor losers.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+25 
+ 
+Nawoord 
+Deze opdracht heeft mij veel geleerd over de Nederlandse biermarkt en wat het 
+effect is van de nieuwe Drank- en Horecawet. Ik had eigenlijk verwacht dat die 
+wet niet zo heel veel had opgeleverd. Ik stond daar niet alleen in, ook mijn 
+leeftijdsgenoten hebben nog steeds deze indruk, zo blijkt uit mijn enquête. Niet 
+is minder waar: de leeftijd van de eerste alcoholische drankje is omhooggegaan, 
+er wordt meer bewust met alcohol omgegaan, sommige cafés gericht op 
+jongeren hebben moeten sluiten en al met al moet de maatregel, ondanks de 
+introductie / lancering van nieuwe alcoholarme (Radler) / vrije biertjes toch een 
+negatief effect hebben gehad op de omzet en winstgevendheid van brouwerijen. 
+Wellicht dat ze om deze reden ook zeer terughoudend zijn in het Preventie 
+akkoord. Ze zijn bang voor verdere omzetdaling.  
+Daarnaast heb ik veel geleerd over hoe je een dergelijk onderzoek aanpakt. Het 
+was leuk om de marketingmanager van een bierbrouwerij te interviewen en ik 
+was onder de indruk van de expert bij de GGD en haar werk. Zelf vond ik mijn 
+enquête eigenlijk het meest geslaagd. Ik vond het eerlijk gezegd best wel 
+spannend om mijn leeftijdsgenoten te benaderen, maar ik was heel positief 
+verrast door de enorme response en positieve feedback die ik via social media 
+in korte tijd ontving. Het verwerken van de resultaten deed ik met veel plezier.  
+Ik wil graag de volgende mensen bedanken voor hun hulp bij het opstellen en 
+uitsturen van de enquête: mijn zus Bregje, Luuk Krezschmar en Zomer Althoff. 
+Daarnaast wil ik graag Menno Androg en mijn moeder bedanken voor het 
+nalezen en corrigeren op spelfouten. Tot slot wil ik de heer Mokveld bedanken 
+voor zijn commentaar op een eerdere versie en zijn positieve instelling.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

@@ -1,0 +1,12 @@
+{
+  "port": 27124,
+  "insecurePort": 27123,
+  "enableInsecureServer": false,
+  "enableSecureServer": true,
+  "apiKey": "a3620658e62d325305da54846ffccf551c4312332072c0181365a7ec8cc1e802",
+  "certificate": "",
+  "privateKey": "",
+  "createNoteIfNotExists": true,
+  "useHeaderAuth": true,
+  "enableMCP": true
+}

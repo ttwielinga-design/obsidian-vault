@@ -1,0 +1,22 @@
+path	bucket	proposed_new_path	reason	confidence
+Areas/Work/Client Projects/Task ID Numbers.md	area-note		Hotel investment project management data; substantive	high
+Areas/Work/Client Projects/Task Order.md	area-note		Hotel project task sequencing; substantive work	high
+Areas/Work/Client Projects/Task Scheduling.md	area-note		Hotel project scheduling; substantive work content	high
+Areas/Work/Client Projects/Try This File.md	area-note		Hotel front office task checklist; substantive	high
+Areas/Work/Client Projects/Turn Into Table.md	area-note		System integration matrix for hotel project	high
+Areas/Work/Client Projects/ULTIMA.md	area-note		Hotel revenue projections and financial analysis	high
+Areas/Work/Client Projects/Untitled Spreadsheet.md	area-note		Hotel performance metrics; substantive data	high
+Areas/Work/Client Projects/Wireframe.md	project-note	Projects/DayVibe/Product/wireframe.md	DayVibe-related wireframe spec; belongs with DayVibe	high
+Brain Dump/routing-rules.md	keep-in-place		Vault routing and email triage rules; system-level config	high
+Projects/_root/gdpr-compliance-framework-for-early.md	resource-note	Resources/Reference/gdpr-compliance-framework.md	GDPR compliance guide for startups; reusable framework	high
+Projects/_root/mindboost--replit.md	project-note	Projects/MindBoost/mindboost-replit.md	MindBoost Replit project doc; move to canonical folder	high
+Projects/_root/park56-website.md	project-note	Projects/Park56/park56-website.md	Park56 M&A advisory website spec; canonical project folder	high
+Projects/companysearcher.ipynb/companysearcher.md	project-note	Projects/CompanySearcher/companysearcher.md	CompanySearcher Python notebook project	high
+Projects/dayvibe-v4/v4.md	project-note	Projects/DayVibe/v4.md	DayVibe v4 website version; consolidate with DayVibe	high
+Projects/how-to-extract/podcast-summary-framework.md	resource-note	Resources/Reference/podcast-summary-framework.md	Reusable podcast summary framework	high
+Projects/v3.html/v3.md	project-note	Projects/DayVibe/v3.md	DayVibe v3 website version; consolidate with DayVibe	high
+Projects/write-copy/creation-document.md	resource-note	Resources/Reference/copy-creation-framework-hormozi.md	Reusable Hormozi copywriting framework	high
+Projects/write-copy/llm-review-checklist.md	resource-note	Resources/Reference/llm-copywriting-checklist.md	Hormozi copywriting compliance checklist	high
+Resources/Code/Python/Copy of Untitled5.md	resource-note		Wine inventory parsing Python code; keep in folder	high
+Resources/Reference/Untitled Document 2.md	untitled-needs-rename	Resources/Reference/park56-solutions-nav.md	Park56 M&A solutions navigation; rename	high
+Resources/Reference/Untitled Document.md	untitled-needs-rename	Resources/Reference/wine-tasting-notes.md	Wine tasting evaluation Prosecco/Cava; rename	high

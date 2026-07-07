@@ -1,0 +1,30 @@
+path	bucket	proposed_new_path	reason	confidence
+Resources/personal-documents/.git.md	junk-binary	Archive/Junk/binary/.git.md	source_file references .git directory	low
+Resources/personal-documents/.gitignore.md	junk-binary	Archive/Junk/binary/.gitignore.md	source_file references git repository file	low
+Resources/personal-documents/2026-05-14-bier-onderzoek-jongeren.md	junk-low-confidence	Archive/Junk/low-confidence/2026-05-14-bier-onderzoek-jongeren.md	PDF import with confidence 0.3, empty body	low
+Resources/personal-documents/2026-05-14-bnppre-hotel-investment-market-germany-2022q3.md	junk-low-confidence	Archive/Junk/low-confidence/2026-05-14-bnppre-hotel-investment-market-germany-2022q3.md	PDF import with confidence 0.3, empty body	low
+Resources/personal-documents/2026-05-14-certificado-de-español.md	junk-low-confidence	Archive/Junk/low-confidence/2026-05-14-certificado-de-español.md	PDF import with confidence 0.3, empty body	low
+Resources/personal-documents/2026-05-14-hotelschool-the-hague-application.md	junk-low-confidence	Archive/Junk/low-confidence/2026-05-14-hotelschool-the-hague-application.md	PDF import with confidence 0.3, empty body	low
+Resources/personal-documents/2026-05-14-thomas-wielinga-ref.-eric.md	junk-low-confidence	Archive/Junk/low-confidence/2026-05-14-thomas-wielinga-ref.-eric.md	PDF import with confidence 0.3, empty body	low
+Resources/personal-documents/2026-05-14-thomas-wielinga-ref.-robin.md	junk-low-confidence	Archive/Junk/low-confidence/2026-05-14-thomas-wielinga-ref.-robin.md	PDF import with confidence 0.3, empty body	low
+Resources/personal-documents/250506-hypothecaire-lening-thomas-wielinga-mbs-bv.md	junk-low-confidence	Archive/Junk/low-confidence/250506-hypothecaire-lening-thomas-wielinga-mbs-bv.md	PDF import with confidence 0.3, empty body	low
+Resources/personal-documents/250506-leningsovereenkomst-thomas-wielinga.md	junk-low-confidence	Archive/Junk/low-confidence/250506-leningsovereenkomst-thomas-wielinga.md	PDF import with confidence 0.3, empty body	low
+Resources/personal-documents/250506-schenking-thomas.md	junk-low-confidence	Archive/Junk/low-confidence/250506-schenking-thomas.md	PDF import with confidence 0.3, empty body	low
+Resources/personal-documents/250506-schenking-thomas-wielinga.md	junk-low-confidence	Archive/Junk/low-confidence/250506-schenking-thomas-wielinga.md	PDF import with confidence 0.3, empty body	low
+Resources/personal-documents/agitated-tharp-edcf5e.md	junk-binary	Archive/Junk/binary/agitated-tharp-edcf5e.md	source_file references .git/logs directory	low
+Resources/personal-documents/berta--hospita-contract.md	junk-low-confidence	Archive/Junk/low-confidence/berta--hospita-contract.md	PDF import with confidence 0.3, empty body	low
+Resources/personal-documents/broker-cash-and-holdings-price.md	junk-binary	Archive/Junk/binary/broker-cash-and-holdings-price.md	source_file references .git/logs directory	low
+Resources/personal-documents/charming-wu-2d8266.md	junk-binary	Archive/Junk/binary/charming-wu-2d8266.md	source_file references .git/logs directory	low
+Resources/personal-documents/commit-editmsg.md	junk-binary	Archive/Junk/binary/commit-editmsg.md	source_file references .git/COMMIT_EDITMSG	low
+Resources/personal-documents/config.md	junk-binary	Archive/Junk/binary/config.md	source_file references .git/config	low
+Resources/personal-documents/description.md	junk-binary	Archive/Junk/binary/description.md	source_file references .git/description	low
+Resources/personal-documents/doorlopende-machtiging-sepa.md	junk-low-confidence	Archive/Junk/low-confidence/doorlopende-machtiging-sepa.md	PDF import with confidence 0.3, empty body	low
+Resources/personal-documents/emile--hospita-contract.md	junk-low-confidence	Archive/Junk/low-confidence/emile--hospita-contract.md	PDF import with confidence 0.3, empty body	low
+Resources/personal-documents/exclude.md	junk-binary	Archive/Junk/binary/exclude.md	source_file references .git/info/exclude	low
+Resources/personal-documents/fetch-head.md	junk-binary	Archive/Junk/binary/fetch-head.md	source_file references .git/FETCH_HEAD	low
+Resources/personal-documents/fix-upload-broker-cash.md	junk-binary	Archive/Junk/binary/fix-upload-broker-cash.md	source_file references .git/logs directory	low
+Resources/personal-documents/gifted-edison-fddf8f.md	junk-binary	Archive/Junk/binary/gifted-edison-fddf8f.md	source_file references .git/logs directory	low
+Resources/personal-documents/head.md	junk-binary	Archive/Junk/binary/head.md	source_file references .git/logs directory	low
+Resources/personal-documents/interesting-einstein-864f2a.md	junk-binary	Archive/Junk/binary/interesting-einstein-864f2a.md	source_file references .git/logs directory	low
+Resources/personal-documents/keep-design-system.md	junk-binary	Archive/Junk/binary/keep-design-system.md	source_file references .git/logs directory	low
+Resources/personal-documents/magical-yalow-680367.md	junk-binary	Archive/Junk/binary/magical-yalow-680367.md	source_file references .git/logs directory	low

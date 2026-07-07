@@ -1,0 +1,17 @@
+---
+title: "Skills Lab"
+date: 2026-05-14
+type: reference
+area: resources/reference
+tags: [type/reference, area/resources/reference, status/active]
+status: active
+---
+
+- "Skills Lab"
+tags:
+  - "orphaned"
+  - "resources"
+  - "reference"
+  - "hotel-investment"
+  - "finance"
+  - "code"
