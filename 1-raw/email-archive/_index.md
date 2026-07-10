@@ -16,12 +16,14 @@ Archived emails across multiple accounts. See [[gmail-index|Gmail Index]] for th
 ## Accounts
 
 - **[[gmail-index|Gmail]]** — t.t.wielinga@gmail.com (2021–2026, 218 emails)
+- **[[yahoo-index|Yahoo]]** — thomas.wielinga@yahoo.com (2021–2026, ~120 important emails extracted)
 
 ## Quick Stats
 
 | Account | Period | Emails | Notes |
 |---------|--------|--------|-------|
 | Gmail | 2021–2026 | 218 | See [[gmail-index|full index]] |
+| Yahoo | 2021–2026 | ~120 | See [[yahoo-index|full index]] |
 
 ## Category Coverage
 
