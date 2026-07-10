@@ -1,0 +1,7 @@
+**Actividades para entregar Módulo 4**
+
+**Tarea 1:**
+
+¡Hola! Soy Thomas,
+
+Mi país de origen es los Países Bajos, pero he vivido en San Francisco, así como en Londres, y Sevilla. Las tradiciones alimenticias en los Países Bajos no son muy interesantes, comemos principalmente patatas con verduras y algo de carne. Sin embargo, también comemos comida de muchos países diferentes, ya que los Países Bajos son muy internacionales. Las comidas que más me gustan son: pastas, nasi, sushi y, por supuesto, tapas. Ahora mismo vivo en Maastricht. La comida local aquí son los espárragos blancos. También hay unos cuantos viñedos cerca y producen vino, así que también tenemos vino aquí. La comida típica es, sin duda, espárragos blancos con huevo y tocino para los habitantes de Maastricht. Personalmente no me gusta mucho. Los hábitos alimenticios de los holandeses en general los puedo respetar. Esto se debe a que comen alimentos de todo el mundo y, por tanto, comen de todo. Creo que eso es realmente sorprendente. Hablando de comida de todo el mundo. Cuando vivía en España las cosas que más me gustaban comer y beber eran: Los calamares, los embutidos, los quesos, el vino local del norte de España y, por supuesto, el pescado fresco. También me gusta mucho la forma en que los españoles comen bien y tarde y la cultura es más relajada, por lo que puedes ir a tomar una cerveza y comer algo alrededor de la 1 y nadie pensaría que es una barbaridad. Aquí en los Países Bajos eso no es posible.

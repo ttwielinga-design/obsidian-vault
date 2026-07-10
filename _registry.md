@@ -12,9 +12,48 @@ date: 2026-05-14
 
 **Owner**: Thomas Wielinga  
 **Vault span**: 2015–2026  
-**Structure**: PAR (Projects / Areas / Resources) + Daily journal + Archive  
-**Total notes**: ~500 content notes + 321 daily journal entries  
-**Tag taxonomy**: `#type/` · `#area/` · `#project/` · `#status/` · `#topic/`
+**Structure**: Hybrid — 3-Layer (Raw → Notes → Knowledge) + Legacy PARA (Projects / Areas / Resources) + Daily journal + Archive  
+**Total notes**: ~500 content notes + 321 daily journal entries + ~337 converted work documents  
+**Tag taxonomy**: `#type/` · `#area/` · `#project/` · `#status/` · `#topic/` (PARA legacy) + SCHEMA taxonomy (domain, tech, workflow, quality, source, note-type)  
+
+---
+
+## 0. Vault Architecture (v2 — July 2026)
+
+This vault now uses a **hybrid structure** — the new 3-layer system alongside the existing PARA folders.
+
+### 3-Layer System (new)
+
+| Layer | Directory | Purpose | Status |
+|-------|-----------|---------|--------|
+| 0 | [[0-inbox/]] | Capture zone (fleeting notes) | Active |
+| 1 | [[1-raw/]] | Immutable source material | **New** — 337 converted work docs |
+| 2 | [[2-notes/]] | Agent-maintained wiki (atoms, MOCs, daily, projects, areas, entities) | **New** — scaffolding |
+| 3 | [[3-knowledge/]] | Synthesized evergreen knowledge | **New** — ready |
+| 4 | [[4-archive/]] | Cold storage for completed/deprecated | **New** — bridges to legacy [[Archive/]] |
+
+### Legacy PARA (preserved)
+
+| Directory | Purpose | Bridge |
+|-----------|---------|--------|
+| [[Inbox/]] | Legacy inbox | → 0-inbox |
+| [[Projects/]] | Active projects (DayVibe, etc.) | → 2-notes/projects |
+| [[Areas/]] | Responsibilities (Finance, Health, People, Work) | → 2-notes/areas, 2-notes/entities |
+| [[Resources/]] | Reference material | → 3-knowledge |
+| [[Archive/]] | Historical records | → 4-archive |
+| [[Daily/]] | 321 daily journals (2018–2026) | → 2-notes/daily |
+| [[Brain Dump/]] | Unstructured thoughts | → 0-inbox |
+
+### Key Architecture Docs
+
+- [[SCHEMA]] — Full vault constitution (tag taxonomy, frontmatter specs, page thresholds)
+- [[_secondbrain-readme]] — Vault onboarding guide
+- [[_secondbrain-index]] — New 3-layer home page
+- [[dashboard-home]] — Task/activity dashboard
+- [[vault-analytics]] — Note stats
+- [[log]] — Changelog (agent + human)
+
+---
 
 ---
 

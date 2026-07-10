@@ -1,0 +1,5 @@
+**Assignment 10:**
+
+I think a good manager in the hospitality industry needs a couple of things. First of all, I think a manager needs perseverance, this is because the hospitality industry is a rough industry where, like in life, if you have a setback you need to be able to pull thru and get out of the bad patch. Secondly, I believe a good manager also knows his or her employees. This is essential so you know how you can make them thrive because without your bottom-line there is no business. You are more replaceable as a manager then they are. They are your key to success. Furthermore, I think you need a go getter attitude you as a manager need to want more, better and smarter all the time, because in this industry you die out if you don’t innovate.
+
+The competences you need as a HMSM student and campus resident is also similar to that of a manager. You need to **want** to get good grades and work on yourself. If you don’t do this then you want be a success because you fall behind and there is a set pace that you need to run in order to succeed.

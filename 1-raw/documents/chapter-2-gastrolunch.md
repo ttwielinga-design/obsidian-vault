@@ -1,0 +1,5 @@
+Chapter 2 – The menu
+
+For the parsnip purée we are going to boil it together with some garlic, cream, milk and butter. When that is boiling we are going to reduce the heat, cover it and let it simmer for 10 – 15 minutes. Then we are going to uncover let the liquid reduce by 50% and add some salt. After this we are going to blend it to a nice and smooth purée
+
+As for the dogfish skin we are going to remove the skin from the flesh of the dogfish. Keeping the knife tightly against the skin and removing the extra fat and flesh from the skin side (you want to remove this because it hinders the ability for the skin to puff up. After this we are going to place the skin, scale side down, on a baking tray with baking paper on it. Then we are going to place the skin in the oven at 50 degrees Celsius for about 4 hours/until it dries out. Don’t forget to put the fan on in the oven. It is done when it is sure crispy and you can easily snap pieces off. To fry it you can take a little piece and place it into a deep fryer at about 180 Celsius until it puffs up to about 8 times the size.

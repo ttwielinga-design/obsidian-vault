@@ -1,0 +1,5 @@
+Excited to share my internship journey with you all! During the last six months I was on an internship at the “W”, Fort Lauderdale (Florida, USA). The W is a five star hotel, part of the Bonvoy Marriott group. I had the opportunity to work in various departments such as Food & Beverage and Banqueting. Through my work as a leader at the pool and its facilities and my work at banquets, I was able to expand my skill set and gain valuable experience and gain me a better understanding of how a high-end hotel, like the W operates and how staff make guests feel at home. Whatever, Whenever!
+
+I am grateful for the support and guidance of my mentor and colleagues, who made this experience a memorable one. I would like to give a special thank you to @Scott Jaeger, and Mehmet Yargici. I am now confident in applying my skills and knowledge to future endeavors.
+
+I highly recommend the W, Fort Lauderdale as a great place for internships and to kickstart your career. Thank you for this amazing opportunity!
