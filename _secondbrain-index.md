@@ -5,7 +5,7 @@
 ## Quick Links
 
 - **Capture:** [[0-inbox/]] — fleeting notes, quick captures
-- **Today:** [[2-notes/daily/2026-07-10|Friday, July 10, 2026]] — daily note
+- **Today:** [[2-notes/daily/2026-07-11|Saturday, July 11, 2026]] — daily note
 - **Mobile:** [[mobile-home|📱 Mobile Home]] — mobile-optimized dashboard
 - **Active Projects:** [[2-notes/projects/]] — what you're building
 - **Responsibilities:** [[2-notes/areas/]] — ongoing areas
