@@ -25,37 +25,37 @@ Covers the period **2021–2026**. Filters out newsletters, marketing, notificat
 
 ### 💰 Financial
 
-- [[financial-degiro|DEGIRO Investment Account]] — Account opening (Jan 2023), monthly ETF purchases, deposits
-- [[financial-rabo-banking|Rabobank Banking]] — Card activation, Apple Pay, limit changes, non-EU payments
-- [[financial-receipts|Receipts & Purchases]] — Notable purchases, subscriptions
-- [[financial-degiro|DEGIRO]] — **Monthly investment tracking:** Vanguard S&P 500 (May 2024–Feb 2025), Xtrackers MSCI World ex USA (Feb 2026)
+- ((financial-degiro|DEGIRO Investment Account)) — Account opening (Jan 2023), monthly ETF purchases, deposits
+- ((financial-rabo-banking|Rabobank Banking)) — Card activation, Apple Pay, limit changes, non-EU payments
+- ((financial-receipts|Receipts & Purchases)) — Notable purchases, subscriptions
+- ((financial-degiro|DEGIRO)) — **Monthly investment tracking:** Vanguard S&P 500 (May 2024–Feb 2025), Xtrackers MSCI World ex USA (Feb 2026)
 
 ### 🏠 Housing
 
-- [[housing-vve-utilities|VvE & Utilities]] — VvE Metea meetings, minutes, glass fiber, roof/garden; Eneco energy bills; Ziggo internet; NS train subscription
-- [[housing-verhuizing|Moving to Arthur van Schendelstraat]] — Gemeente Utrecht verhuizing (May 2025)
+- ((housing-vve-utilities|VvE & Utilities)) — VvE Metea meetings, minutes, glass fiber, roof/garden; Eneco energy bills; Ziggo internet; NS train subscription
+- ((housing-verhuizing|Moving to Arthur van Schendelstraat)) — Gemeente Utrecht verhuizing (May 2025)
 
 ### 💼 Work & Education
 
-- [[work-aedes-internship|Aedes Internship (2024)]] — Stageplan, Joost de Graaf, Aedes papers, Pleun Hoppenbrouwers
-- [[work-education-hmsm|Hotel Management School Maastricht]] — Funda Graduation Ceremony (21 Mar 2025)
+- ((work-aedes-internship|Aedes Internship (2024))) — Stageplan, Joost de Graaf, Aedes papers, Pleun Hoppenbrouwers
+- ((work-education-hmsm|Hotel Management School Maastricht)) — Funda Graduation Ceremony (21 Mar 2025)
 
 ### ✈️ Travel
 
-- [[travel-bookings|Travel Bookings]] — KLM flights (Madrid 2026, New Orleans 2025, New York 2023), Greyhound (US 2025), Vardia (Croatia 2025), NS International (Sep 2026), Booking Claim
+- ((travel-bookings|Travel Bookings)) — KLM flights (Madrid 2026, New Orleans 2025, New York 2023), Greyhound (US 2025), Vardia (Croatia 2025), NS International (Sep 2026), Booking Claim
 
 ### 🏛️ Government
 
-- [[government-mijnoverheid|MijnOverheid — Tax & Official Documents]] — Belastingdienst, BSGW, Kadaster, Pensioenfonds
-- [[government-duo|DUO — Student Loans & Education]] — Prestatiebeurs, studieschuld, rentevaste periode, OV stop, diploma
+- ((government-mijnoverheid|MijnOverheid — Tax & Official Documents)) — Belastingdienst, BSGW, Kadaster, Pensioenfonds
+- ((government-duo|DUO — Student Loans & Education)) — Prestatiebeurs, studieschuld, rentevaste periode, OV stop, diploma
 
 ### ❤️ Health
 
-- [[health-fitness|Health & Fitness]] — Uw Zorg Online
+- ((health-fitness|Health & Fitness)) — Uw Zorg Online
 
 ### 👤 Personal
 
-- [[personal-correspondence|Personal Correspondence]] — LinkedIn messages, self-archived work emails
+- ((personal-correspondence|Personal Correspondence)) — LinkedIn messages, self-archived work emails
 
 ---
 

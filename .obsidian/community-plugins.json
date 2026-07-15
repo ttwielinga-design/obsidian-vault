@@ -1,10 +1,7 @@
 [
-  "claudian",
-  "obsidian-git",
-  "obsidian-local-rest-api",
-  "templater-obsidian",
   "dataview",
-  "quickadd",
+  "templater-obsidian",
+  "calendar",
   "obsidian-tasks",
-  "calendar"
+  "quickadd"
 ]
