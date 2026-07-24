@@ -5,7 +5,7 @@
 ## Quick Links
 
 - **Capture:** [[0-inbox/]] — fleeting notes, quick captures
-- **Today:** [[2-notes/daily/2026-07-11|Saturday, July 11, 2026]] — daily note
+- **Today:** [[2-notes/daily/2026-07-15|Wednesday, July 15, 2026]] — daily note
 - **Mobile:** [[mobile-home|📱 Mobile Home]] — mobile-optimized dashboard
 - **Active Projects:** [[2-notes/projects/]] — what you're building
 - **Responsibilities:** [[2-notes/areas/]] — ongoing areas
@@ -41,6 +41,11 @@
 - [[cross-agent-knowledge-base|Cross-Agent Knowledge Base]] — entry point to cross-agent insights
 - [[cross-agent-handoff-protocol|Cross-Agent Handoff Protocol]] — how agents hand off work
 - [[agent-learning-transfer-loop|Agent Learning Transfer Loop]] — how knowledge propagates between agents
+
+
+## Weekly Reviews
+
+- [[3-knowledge/weekly/2026-07-15|Week 28 — July 9-15, 2026]] — Vault migration complete, operations need restarting. 0 coding sessions, 0 new atoms, 5 Hermes automation runs.
 
 ## Getting Started
 
